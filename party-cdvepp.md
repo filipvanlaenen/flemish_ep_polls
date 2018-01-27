@@ -10,50 +10,14 @@ Last result: **20.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.7–15.6% | 12.4–16.0% | 12.0–16.4% | 11.4–17.1% |
+| N/A | [Poll Average](average.html) | 16.8% | 13.2–20.5% | 12.7–21.1% | 12.4–21.5% | 11.7–22.4% |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14.1% | 12.7–15.6% | 12.4–16.0% | 12.0–16.4% | 11.4–17.1% |
-
-### Probability Mass Function
-
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for CD&V (EPP).
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.7% | 100% |  |
-| 11.5–12.5% | 6% | 99.3% |  |
-| 12.5–13.5% | 23% | 93% |  |
-| 13.5–14.5% | 35% | 70% | Median |
-| 14.5–15.5% | 24% | 35% |  |
-| 15.5–16.5% | 9% | 10% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
-| 18.5–19.5% | 0% | 0% |  |
-| 19.5–20.5% | 0% | 0% | Last Result |
-
-
-## Seats
-
-Last result: **2** seats (General Election of 25 May 2014)
-
-### Confidence Intervals
-
-| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
-| [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 2 | 2 | 1–2 | 1–2 |
-
-### Probability Mass Function
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-cdvepp.png "Seats Probability Mass Function")
-
-The following table shows the probability mass function per seat for the [poll average](average.html) for CD&V (EPP).
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 96% | 96% | Last Result, Median |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
-
-
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 19.4% | 17.9–21.1% | 17.5–21.5% | 17.1–21.9% | 16.4–22.8% |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 16.1% | 14.6–17.7% | 14.2–18.1% | 13.9–18.5% | 13.2–19.3% |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 17.0% | 15.2–19.0% | 14.6–19.6% | 14.2–20.1% | 13.4–21.1% |
+| [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.4–21.1% | 15.7–21.9% |
+| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 14.1% | 12.6–15.8% | 12.1–16.3% | 11.8–16.7% | 11.1–17.6% |
+| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14.9% | 13.5–16.5% | 13.2–16.9% | 12.8–17.3% | 12.2–18.1% |
+| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 16.3% | 14.7–18.2% | 14.2–18.7% | 13.8–19.2% | 13.1–20.1% |
+| [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 16.8% | 15.3–18.4% | 15.0–18.8% | 14.6–19.2% | 13.9–20.0% |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17.6% | 16.0–19.3% | 15.6–19.8% | 15.2–20.2% | 14.5–21.0% |

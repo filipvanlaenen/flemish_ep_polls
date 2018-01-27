@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sat, 27 Jan 2018 11:03:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 26.8–32.5%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 12.0–16.4%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 10.3–14.3%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 9.1–13.0%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 11.2–15.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 8.6–12.4%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 4.3–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.png"
+        length="192816"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jan 2018 11:03:10 +0100</pubDate>
+      <dc:date>2018-01-27T11:03:10.85907+01:00</dc:date>
+    </item>
+    <dc:date>2018-01-27T11:03:10.85907+01:00</dc:date>
+  </channel>
+</rss>

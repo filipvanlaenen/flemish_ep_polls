@@ -20,4 +20,4 @@ Last result: **20.0%** (General Election of 25 May 2014)
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14.9% | 13.5–16.5% | 13.2–16.9% | 12.8–17.3% | 12.2–18.1% |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 16.3% | 14.7–18.2% | 14.2–18.7% | 13.8–19.2% | 13.1–20.1% |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 16.8% | 15.3–18.4% | 15.0–18.8% | 14.6–19.2% | 13.9–20.0% |
-| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17.6% | 16.0–19.3% | 15.6–19.8% | 15.2–20.2% | 14.5–21.0% |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17.6% | 16.1–19.3% | 15.7–19.7% | 15.3–20.1% | 14.7–20.9% |

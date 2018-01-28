@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jan 2018 20:38:31 +0100</pubDate>
+    <pubDate>Sun, 28 Jan 2018 10:07:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -30,14 +30,34 @@
       <dc:date>2018-01-27T12:05:10.269136+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS-seats.png"
+        length="228615"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jan 2018 20:55:12 +0100</pubDate>
+      <dc:date>2018-01-27T20:55:12.467549+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 25.4–30.8%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 17.1–21.9%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 13.4–17.8%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 11.9–16.1%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 5.2–8.2%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS.png"
         length="193812"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 20:38:31 +0100</pubDate>
-      <dc:date>2018-01-27T20:38:31.588652+01:00</dc:date>
+      <pubDate>Sat, 27 Jan 2018 20:55:12 +0100</pubDate>
+      <dc:date>2018-01-27T20:55:12.467549+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-09-03-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-09-03-Ipsos-seats.png"
+        length="140130"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jan 2018 21:12:09 +0100</pubDate>
+      <dc:date>2018-01-27T21:12:09.842347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-09-03-Ipsos.png"
         length="191740"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 11:51:57 +0100</pubDate>
-      <dc:date>2018-01-27T11:51:57.524914+01:00</dc:date>
+      <pubDate>Sat, 27 Jan 2018 21:12:09 +0100</pubDate>
+      <dc:date>2018-01-27T21:12:09.842347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-01-17-Ipsos.png"
         length="193823"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 12:11:01 +0100</pubDate>
-      <dc:date>2018-01-27T12:11:01.958558+01:00</dc:date>
+      <pubDate>Sun, 28 Jan 2018 10:07:59 +0100</pubDate>
+      <dc:date>2018-01-28T10:07:59.175043+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Seat Projections</title>
@@ -160,14 +180,24 @@
       <dc:date>2018-01-27T19:50:38.311402+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2016-09-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-09-25-Ipsos-seats.png"
+        length="200655"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jan 2018 21:29:00 +0100</pubDate>
+      <dc:date>2018-01-27T21:29:00.768374+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2016-09-25-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 23.3–28.8%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 15.3–20.1%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 10.6–14.7%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 11.7–16.0%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 10.1–14.2%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 2.8–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-09-25-Ipsos.png"
         length="200957"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 12:25:30 +0100</pubDate>
-      <dc:date>2018-01-27T12:25:30.123943+01:00</dc:date>
+      <pubDate>Sat, 27 Jan 2018 21:29:00 +0100</pubDate>
+      <dc:date>2018-01-27T21:29:00.768374+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Seat Projections</title>
@@ -310,14 +340,24 @@
       <dc:date>2018-01-27T19:31:48.772395+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS-seats.png"
+        length="181484"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jan 2018 09:43:32 +0100</pubDate>
+      <dc:date>2018-01-28T09:43:32.11792+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 28.3–34.0%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 12.8–17.2%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 11.8–16.1%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 8.2–11.9%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 5.6–8.7%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS.png"
         length="186748"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 12:58:58 +0100</pubDate>
-      <dc:date>2018-01-27T12:58:58.790779+01:00</dc:date>
+      <pubDate>Sun, 28 Jan 2018 09:43:32 +0100</pubDate>
+      <dc:date>2018-01-28T09:43:32.11792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections</title>
@@ -420,14 +460,24 @@
       <dc:date>2018-01-27T16:16:33.560497+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2015-01-28-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-01-28-Ipsos-seats.png"
+        length="152513"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jan 2018 09:28:34 +0100</pubDate>
+      <dc:date>2018-01-28T09:28:34.444655+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2015-01-28-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 27.5–33.1%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 14.9–19.5%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 12.8–17.2%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 12.7–17.0%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 8.5–12.3%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 6.2–9.4%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 2.6–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-01-28-Ipsos.png"
         length="190730"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 13:23:32 +0100</pubDate>
-      <dc:date>2018-01-27T13:23:32.849655+01:00</dc:date>
+      <pubDate>Sun, 28 Jan 2018 09:28:34 +0100</pubDate>
+      <dc:date>2018-01-28T09:28:34.444655+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Seat Projections</title>
@@ -450,14 +500,34 @@
       <dc:date>2018-01-27T14:39:34.249296+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-05-AQRate.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-05-AQRate-seats.png"
+        length="162933"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jan 2018 09:59:54 +0100</pubDate>
+      <dc:date>2018-01-28T09:59:54.547614+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-05-AQRate.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 25.0–31.2%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 14.5–19.8%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 9.9–14.4%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 13.6–18.7%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 11.7–16.6%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 4.6–7.9%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 1.2–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-05-AQRate.png"
         length="197722"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 13:31:16 +0100</pubDate>
-      <dc:date>2018-01-27T13:31:16.199589+01:00</dc:date>
+      <pubDate>Sun, 28 Jan 2018 09:59:54 +0100</pubDate>
+      <dc:date>2018-01-28T09:59:54.547614+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-01-Dedicated.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lijst Dedecker (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-01-Dedicated-seats.png"
+        length="185851"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jan 2018 21:53:25 +0100</pubDate>
+      <dc:date>2018-01-27T21:53:25.648374+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Voting Intentions</title>
@@ -466,8 +536,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-12-01-Dedicated.png"
         length="228931"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 13:36:40 +0100</pubDate>
-      <dc:date>2018-01-27T13:36:40.741257+01:00</dc:date>
+      <pubDate>Sat, 27 Jan 2018 21:53:25 +0100</pubDate>
+      <dc:date>2018-01-27T21:53:25.648374+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Seat Projections</title>
@@ -536,9 +606,9 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-07-31-AQRate.png"
         length="186211"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 13:53:29 +0100</pubDate>
-      <dc:date>2018-01-27T13:53:29.741334+01:00</dc:date>
+      <pubDate>Sat, 27 Jan 2018 23:04:38 +0100</pubDate>
+      <dc:date>2018-01-27T23:04:38.989381+01:00</dc:date>
     </item>
-    <dc:date>2018-01-27T20:38:31.588652+01:00</dc:date>
+    <dc:date>2018-01-28T10:07:59.175043+01:00</dc:date>
   </channel>
 </rss>

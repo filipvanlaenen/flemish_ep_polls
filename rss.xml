@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 28 Jan 2018 12:48:08 +0100</pubDate>
+    <pubDate>Tue, 30 Jan 2018 19:09:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -556,8 +556,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-10-10-AQRate-seats.png"
         length="153024"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 18:40:57 +0100</pubDate>
-      <dc:date>2018-01-27T18:40:57.448151+01:00</dc:date>
+      <pubDate>Tue, 30 Jan 2018 19:09:37 +0100</pubDate>
+      <dc:date>2018-01-30T19:09:37.723015+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Voting Intentions</title>
@@ -566,8 +566,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2014-10-10-AQRate.png"
         length="193386"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 18:40:57 +0100</pubDate>
-      <dc:date>2018-01-27T18:40:57.448151+01:00</dc:date>
+      <pubDate>Tue, 30 Jan 2018 19:09:37 +0100</pubDate>
+      <dc:date>2018-01-30T19:09:37.723015+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Seat Projections</title>
@@ -629,6 +629,6 @@
       <pubDate>Sun, 28 Jan 2018 10:29:51 +0100</pubDate>
       <dc:date>2018-01-28T10:29:51.905184+01:00</dc:date>
     </item>
-    <dc:date>2018-01-28T12:48:08.032403+01:00</dc:date>
+    <dc:date>2018-01-30T19:09:37.723015+01:00</dc:date>
   </channel>
 </rss>

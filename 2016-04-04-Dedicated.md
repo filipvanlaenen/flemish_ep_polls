@@ -46,9 +46,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 41% | 100% |  |
-| 4 | 59% | 59% | Last Result, Median |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 44% | 100% |  |
+| 4 | 56% | 56% | Last Result, Median |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### CD&V (EPP)
@@ -59,8 +59,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 70% | 100% | Last Result, Median |
-| 3 | 30% | 30% |  |
+| 2 | 64% | 100% | Last Result, Median |
+| 3 | 36% | 36% |  |
 | 4 | 0% | 0% |  |
 
 ### sp.a (S&D)
@@ -71,8 +71,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 92% | 92% | Median |
+| 1 | 9% | 100% | Last Result |
+| 2 | 91% | 91% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -84,10 +84,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0.1% | 0.1% | Last Result |
-| 4 | 0% | 0% |  |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
+| 3 | 0% | 0% | Last Result |
 
 ### Vlaams Belang (ENF)
 
@@ -155,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 70% | 100% | Last Result, Median |
-| 3 | 30% | 30% |  |
+| 2 | 64% | 100% | Last Result, Median |
+| 3 | 36% | 36% |  |
 | 4 | 0% | 0% |  |
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
@@ -171,10 +170,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0.1% | 0.1% | Last Result |
-| 4 | 0% | 0% |  |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
+| 3 | 0% | 0% | Last Result |
 
 ### Vlaams Belang (ENF)
 
@@ -188,8 +186,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 92% | 92% | Median |
+| 1 | 9% | 100% | Last Result |
+| 2 | 91% | 91% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -213,6 +211,6 @@
 ### Calculations
 
 + **Sample size:** 744
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.41%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.35%
 

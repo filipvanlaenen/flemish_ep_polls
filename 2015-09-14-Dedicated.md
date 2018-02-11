@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98% | 100% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 1 | 98.6% | 100% | Last Result, Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Vlaams Belang (ENF)
@@ -111,7 +111,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 99.2% | 100% | Last Result, Median |
-| 2 | 0.8% | 0.8% |  |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
@@ -183,8 +183,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98% | 100% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 1 | 98.6% | 100% | Last Result, Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Vlaams Belang (ENF)
@@ -192,7 +192,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 99.2% | 100% | Last Result, Median |
-| 2 | 0.8% | 0.8% |  |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
@@ -215,6 +215,6 @@
 ### Calculations
 
 + **Sample size:** 745
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.91%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.22%
 

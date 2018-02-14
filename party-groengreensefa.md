@@ -99,7 +99,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 1 | 1 | 1 | 1 | 1 |
 | [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 1 | 1 | 1 | 1 | 1 |
-| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 1 | 1 | 1 | 1 |
+| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 1 | 1 | 1 | 1–2 |
 | [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function

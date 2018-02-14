@@ -34,7 +34,7 @@ The table below lists all polls registered and analyzed so far.
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28–34% <br> 4–5 | 11–16% <br> 1–2 | 16–21% <br> 2–3 | 13–18% <br> 1–2 | 8–13% <br> 1–2 | 4–8% <br> 0–1 | 3–6% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 27–33% <br> 4–5 | 14–19% <br> 2 | 12–17% <br> 1–2 | 15–21% <br> 2–3 | 7–11% <br> 1 | 6–10% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 27–33% <br> 4–5 | 12–17% <br> 1–2 | 18–23% <br> 2–3 | 14–18% <br> 2 | 8–12% <br> 1 | 5–8% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 29–35% <br> 4–5 | 13–18% <br> 2 | 15–20% <br> 2–3 | 13–18% <br> 2 | 8–12% <br> 1 | 4–7% <br> 0–1 | 2–5% <br> 0 | 0–2% <br> 0 | 0–1% <br> 0 |
+| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 29–35% <br> 4–5 | 13–18% <br> 2 | 15–20% <br> 2–3 | 13–18% <br> 1–2 | 8–12% <br> 1 | 4–7% <br> 0–1 | 2–5% <br> 0 | 0–2% <br> 0 | 0–1% <br> 0 |
 | [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 30–36% <br> 4–5 | 13–18% <br> 2 | 15–20% <br> 2–3 | 12–17% <br> 1–2 | 7–11% <br> 1 | 4–8% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 26.7% <br> 4 | 20.4% <br> 3 | 20.0% <br> 2 | 13.2% <br> 1 | 10.6% <br> 1 | 6.8% <br> 1 | 2.4% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 

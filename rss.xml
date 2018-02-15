@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 14 Feb 2018 18:45:29 +0100</pubDate>
+    <pubDate>Thu, 15 Feb 2018 08:48:21 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-09-03-Ipsos-seats.png"
         length="142274"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 21:12:09 +0100</pubDate>
-      <dc:date>2018-01-27T21:12:09.842347+01:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 08:48:21 +0100</pubDate>
+      <dc:date>2018-02-15T08:48:21.341077+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-09-03-Ipsos-coalitions-seats.png"
         length="119729"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 21:12:09 +0100</pubDate>
-      <dc:date>2018-01-27T21:12:09.842347+01:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 08:48:21 +0100</pubDate>
+      <dc:date>2018-02-15T08:48:21.341077+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-09-03-Ipsos.png"
         length="191740"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 21:12:09 +0100</pubDate>
-      <dc:date>2018-01-27T21:12:09.842347+01:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 08:48:21 +0100</pubDate>
+      <dc:date>2018-02-15T08:48:21.341077+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-02-14T18:45:29.341965+01:00</dc:date>
+    <dc:date>2018-02-15T08:48:21.341077+01:00</dc:date>
   </channel>
 </rss>

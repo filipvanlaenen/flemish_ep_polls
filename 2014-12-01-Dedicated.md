@@ -32,11 +32,11 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#n-va-(ecr)">N-VA (ECR)</a> | 4 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#cd&v-(epp)">CD&V (EPP)</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#sp.a-(s&d)">sp.a (S&D)</a> | 1 | 2 | 2 |2 |1–2 |1–3 |
+| <a href="#sp.a-(s&d)">sp.a (S&D)</a> | 1 | 2 | 2 |2 |2 |1–3 |
 | <a href="#open-vld-(alde)">Open Vld (ALDE)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#vlaams-belang-(enf)">Vlaams Belang (ENF)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#lijst-dedecker-(ecr)">Lijst Dedecker (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#piratenpartij-(greens/efa)">Piratenpartij (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,9 +49,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 53% | 99.9% | Last Result, Median |
-| 5 | 47% | 47% |  |
-| 6 | 0% | 0% |  |
+| 4 | 52% | 99.9% | Last Result, Median |
+| 5 | 48% | 48% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% | Majority |
 
 ### CD&V (EPP)
 
@@ -61,8 +62,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 52% | 100% | Last Result, Median |
-| 3 | 48% | 48% |  |
+| 2 | 60% | 100% | Last Result, Median |
+| 3 | 40% | 40% |  |
 | 4 | 0% | 0% |  |
 
 ### sp.a (S&D)
@@ -73,9 +74,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% | Last Result |
-| 2 | 96% | 97% | Median |
-| 3 | 1.3% | 1.3% |  |
+| 1 | 2% | 100% | Last Result |
+| 2 | 97% | 98% | Median |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
@@ -86,8 +87,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% |  |
-| 2 | 68% | 68% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Groen (Greens/EFA)
@@ -110,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Median |
-| 1 | 35% | 35% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
@@ -122,8 +123,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 
 ### Lijst Dedecker (ECR)
@@ -157,27 +158,37 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N-VA (ECR) – Lijst Dedecker (ECR) | 4 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
 | CD&V (EPP) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| sp.a (S&D) | 1 | 2 | 0% | 2 | 2 | 2 | 1–3 |
 | Groen (Greens/EFA) – Piratenpartij (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Open Vld (ALDE) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| sp.a (S&D) | 1 | 2 | 0% | 2 | 2 | 1–2 | 1–3 |
 | Vlaams Belang (ENF) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| PVDA (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| PVDA (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### N-VA (ECR) – Lijst Dedecker (ECR)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 53% | 99.9% | Last Result, Median |
-| 5 | 47% | 47% |  |
-| 6 | 0% | 0% |  |
+| 4 | 52% | 99.9% | Last Result, Median |
+| 5 | 48% | 48% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% | Majority |
 
 ### CD&V (EPP)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 52% | 100% | Last Result, Median |
-| 3 | 48% | 48% |  |
+| 2 | 60% | 100% | Last Result, Median |
+| 3 | 40% | 40% |  |
+| 4 | 0% | 0% |  |
+
+### sp.a (S&D)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 2% | 100% | Last Result |
+| 2 | 97% | 98% | Median |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
@@ -192,33 +203,24 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% |  |
-| 2 | 68% | 68% | Median |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0% | 0% | Last Result |
-
-### sp.a (S&D)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% | Last Result |
-| 2 | 96% | 97% | Median |
-| 3 | 1.3% | 1.3% |  |
-| 4 | 0% | 0% |  |
 
 ### Vlaams Belang (ENF)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Median |
-| 1 | 35% | 35% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -233,6 +235,6 @@
 ### Calculations
 
 + **Sample size:** 773
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.11%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.00%
 

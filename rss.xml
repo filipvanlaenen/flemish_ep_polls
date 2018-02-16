@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 16 Feb 2018 10:45:00 +0100</pubDate>
+    <pubDate>Fri, 16 Feb 2018 13:00:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -346,8 +346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-05-12-Ipsos-seats.png"
         length="202053"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 15:34:40 +0100</pubDate>
-      <dc:date>2018-01-27T15:34:40.16703+01:00</dc:date>
+      <pubDate>Fri, 16 Feb 2018 12:36:34 +0100</pubDate>
+      <dc:date>2018-02-16T12:36:34.441943+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -356,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-05-12-Ipsos-coalitions-seats.png"
         length="198899"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 15:34:40 +0100</pubDate>
-      <dc:date>2018-01-27T15:34:40.16703+01:00</dc:date>
+      <pubDate>Fri, 16 Feb 2018 12:36:34 +0100</pubDate>
+      <dc:date>2018-02-16T12:36:34.441943+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Voting Intentions</title>
@@ -366,8 +366,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-05-12-Ipsos.png"
         length="202399"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 15:34:40 +0100</pubDate>
-      <dc:date>2018-01-27T15:34:40.16703+01:00</dc:date>
+      <pubDate>Fri, 16 Feb 2018 12:36:34 +0100</pubDate>
+      <dc:date>2018-02-16T12:36:34.441943+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Seat Projections</title>
@@ -436,8 +436,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-01-20-Ipsos-seats.png"
         length="134640"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 15:52:33 +0100</pubDate>
-      <dc:date>2018-01-27T15:52:33.036582+01:00</dc:date>
+      <pubDate>Fri, 16 Feb 2018 13:00:23 +0100</pubDate>
+      <dc:date>2018-02-16T13:00:23.866047+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -446,8 +446,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-01-20-Ipsos-coalitions-seats.png"
         length="128865"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 15:52:33 +0100</pubDate>
-      <dc:date>2018-01-27T15:52:33.036582+01:00</dc:date>
+      <pubDate>Fri, 16 Feb 2018 13:00:23 +0100</pubDate>
+      <dc:date>2018-02-16T13:00:23.866047+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Voting Intentions</title>
@@ -456,8 +456,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2016-01-20-Ipsos.png"
         length="192971"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 15:52:33 +0100</pubDate>
-      <dc:date>2018-01-27T15:52:33.036582+01:00</dc:date>
+      <pubDate>Fri, 16 Feb 2018 13:00:23 +0100</pubDate>
+      <dc:date>2018-02-16T13:00:23.866047+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-02-16T10:45:00.278117+01:00</dc:date>
+    <dc:date>2018-02-16T13:00:23.866047+01:00</dc:date>
   </channel>
 </rss>

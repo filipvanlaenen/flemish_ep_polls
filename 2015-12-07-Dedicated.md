@@ -46,7 +46,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 1.1% | 100% |  |
 | 4 | 89% | 98.9% | Last Result, Median |
-| 5 | 9% | 9% |  |
+| 5 | 10% | 10% |  |
 | 6 | 0% | 0% |  |
 
 ### CD&V (EPP)
@@ -70,8 +70,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 92% | 92% | Median |
+| 1 | 7% | 100% | Last Result |
+| 2 | 92% | 93% | Median |
 | 3 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
@@ -82,8 +82,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 43% | 100% |  |
-| 2 | 57% | 57% | Median |
+| 1 | 44% | 100% |  |
+| 2 | 56% | 56% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Vlaams Belang (ENF)
@@ -148,8 +148,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 43% | 100% |  |
-| 2 | 57% | 57% | Median |
+| 1 | 44% | 100% |  |
+| 2 | 56% | 56% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Vlaams Belang (ENF)
@@ -164,8 +164,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 92% | 92% | Median |
+| 1 | 7% | 100% | Last Result |
+| 2 | 92% | 93% | Median |
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
@@ -186,6 +186,6 @@
 ### Calculations
 
 + **Sample size:** 990
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.01%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.88%
 

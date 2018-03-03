@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 02 Mar 2018 07:37:49 +0100</pubDate>
+    <pubDate>Sat, 03 Mar 2018 07:14:16 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -466,8 +466,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-12-07-Dedicated-seats.png"
         length="160462"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 18:58:22 +0100</pubDate>
-      <dc:date>2018-01-27T18:58:22.097134+01:00</dc:date>
+      <pubDate>Sat, 03 Mar 2018 07:14:16 +0100</pubDate>
+      <dc:date>2018-03-03T07:14:16.375489+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -476,8 +476,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-12-07-Dedicated-coalitions-seats.png"
         length="155481"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 18:58:22 +0100</pubDate>
-      <dc:date>2018-01-27T18:58:22.097134+01:00</dc:date>
+      <pubDate>Sat, 03 Mar 2018 07:14:16 +0100</pubDate>
+      <dc:date>2018-03-03T07:14:16.375489+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Voting Intentions</title>
@@ -486,8 +486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-12-07-Dedicated.png"
         length="191378"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 18:58:22 +0100</pubDate>
-      <dc:date>2018-01-27T18:58:22.097134+01:00</dc:date>
+      <pubDate>Sat, 03 Mar 2018 07:14:16 +0100</pubDate>
+      <dc:date>2018-03-03T07:14:16.375489+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-03-02T07:37:49.134074+01:00</dc:date>
+    <dc:date>2018-03-03T07:14:16.375489+01:00</dc:date>
   </channel>
 </rss>

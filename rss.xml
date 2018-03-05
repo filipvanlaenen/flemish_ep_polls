@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 03 Mar 2018 07:14:16 +0100</pubDate>
+    <pubDate>Mon, 05 Mar 2018 18:53:58 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS-seats.png"
         length="231208"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 20:55:12 +0100</pubDate>
-      <dc:date>2018-01-27T20:55:12.467549+01:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 17:24:22 +0100</pubDate>
+      <dc:date>2018-03-05T17:24:22.343843+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS-coalitions-seats.png"
         length="190018"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 20:55:12 +0100</pubDate>
-      <dc:date>2018-01-27T20:55:12.467549+01:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 17:24:22 +0100</pubDate>
+      <dc:date>2018-03-05T17:24:22.343843+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2017-10-05-TNS.png"
         length="194387"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 20:55:12 +0100</pubDate>
-      <dc:date>2018-01-27T20:55:12.467549+01:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 17:24:22 +0100</pubDate>
+      <dc:date>2018-03-05T17:24:22.343843+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections</title>
@@ -616,8 +616,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-05-03-TNS-seats.png"
         length="199090"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 16:33:22 +0100</pubDate>
-      <dc:date>2018-01-27T16:33:22.304021+01:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 18:53:58 +0100</pubDate>
+      <dc:date>2018-03-05T18:53:58.558163+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -626,8 +626,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-05-03-TNS-coalitions-seats.png"
         length="177754"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 16:33:22 +0100</pubDate>
-      <dc:date>2018-01-27T16:33:22.304021+01:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 18:53:58 +0100</pubDate>
+      <dc:date>2018-03-05T18:53:58.558163+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Voting Intentions</title>
@@ -636,8 +636,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-05-03-TNS.png"
         length="190739"
         type="image/png"/>
-      <pubDate>Sat, 27 Jan 2018 16:33:22 +0100</pubDate>
-      <dc:date>2018-01-27T16:33:22.304021+01:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 18:53:58 +0100</pubDate>
+      <dc:date>2018-03-05T18:53:58.558163+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-03-03T07:14:16.375489+01:00</dc:date>
+    <dc:date>2018-03-05T18:53:58.558163+01:00</dc:date>
   </channel>
 </rss>

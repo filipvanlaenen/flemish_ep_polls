@@ -232,8 +232,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
-| 2 | 72% | 98% | Last Result, Median |
-| 3 | 25% | 25% |  |
+| 2 | 70% | 98% | Last Result, Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% |  |
 
 ### sp.a (S&D)
@@ -268,8 +268,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 80% | 82% | Last Result, Median |
+| 0 | 20% | 100% |  |
+| 1 | 78% | 80% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -316,8 +316,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
-| 2 | 72% | 98% | Last Result, Median |
-| 3 | 25% | 25% |  |
+| 2 | 70% | 98% | Last Result, Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% |  |
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
@@ -357,8 +357,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 80% | 82% | Last Result, Median |
+| 0 | 20% | 100% |  |
+| 1 | 78% | 80% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

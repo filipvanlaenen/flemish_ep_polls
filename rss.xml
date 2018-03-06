@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 05 Mar 2018 18:53:58 +0100</pubDate>
+    <pubDate>Tue, 06 Mar 2018 17:54:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2017-12-04-Ipsos.html#seats</link>
@@ -526,8 +526,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS-seats.png"
         length="183652"
         type="image/png"/>
-      <pubDate>Sun, 28 Jan 2018 09:43:32 +0100</pubDate>
-      <dc:date>2018-01-28T09:43:32.11792+01:00</dc:date>
+      <pubDate>Tue, 06 Mar 2018 17:54:49 +0100</pubDate>
+      <dc:date>2018-03-06T17:54:49.812338+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -536,8 +536,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS-coalitions-seats.png"
         length="173070"
         type="image/png"/>
-      <pubDate>Sun, 28 Jan 2018 09:43:32 +0100</pubDate>
-      <dc:date>2018-01-28T09:43:32.11792+01:00</dc:date>
+      <pubDate>Tue, 06 Mar 2018 17:54:49 +0100</pubDate>
+      <dc:date>2018-03-06T17:54:49.812338+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Voting Intentions</title>
@@ -546,8 +546,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2015-10-02-TNS.png"
         length="187316"
         type="image/png"/>
-      <pubDate>Sun, 28 Jan 2018 09:43:32 +0100</pubDate>
-      <dc:date>2018-01-28T09:43:32.11792+01:00</dc:date>
+      <pubDate>Tue, 06 Mar 2018 17:54:49 +0100</pubDate>
+      <dc:date>2018-03-06T17:54:49.812338+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-03-05T18:53:58.558163+01:00</dc:date>
+    <dc:date>2018-03-06T17:54:49.812338+01:00</dc:date>
   </channel>
 </rss>

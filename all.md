@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VLD | CD&V | SP.A | GROEN | VB | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.7% <br> 4 | 20.4% <br> 3 | 20.0% <br> 2 | 13.2% <br> 1 | 10.6% <br> 1 | 6.8% <br> 1 | 2.4% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 28–34% <br> 4–5 | 11–15% <br> 1–2 | 13–18% <br> 2 | 11–15% <br> 1–2 | 9–12% <br> 1 | 7–11% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 27–32% <br> 4–5 | 10–14% <br> 1–2 | 12–16% <br> 1–2 | 9–13% <br> 1–2 | 11–15% <br> 1–2 | 9–12% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 25–31% <br> 3–4 | 13–18% <br> 2 | 17–22% <br> 2–3 | 9–13% <br> 1–2 | 12–16% <br> 1–2 | 5–8% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 27–33% <br> 4–5 | 10–14% <br> 1–2 | 14–19% <br> 2–3 | 10–14% <br> 1–2 | 11–16% <br> 1–2 | 6–10% <br> 1 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |

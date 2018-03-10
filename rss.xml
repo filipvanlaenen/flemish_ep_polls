@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 10 Mar 2018 07:19:42 +0100</pubDate>
+    <pubDate>Sat, 10 Mar 2018 11:38:56 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-03-06-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 1 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2018-03-06-Ipsos-seats.png"
+        length="158777"
+        type="image/png"/>
+      <pubDate>Sat, 10 Mar 2018 11:38:56 +0100</pubDate>
+      <dc:date>2018-03-10T11:38:56.76515+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-03-06-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2018-03-06-Ipsos-coalitions-seats.png"
+        length="147141"
+        type="image/png"/>
+      <pubDate>Sat, 10 Mar 2018 11:38:56 +0100</pubDate>
+      <dc:date>2018-03-10T11:38:56.76515+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-03-06-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2018-03-06-Ipsos.png"
         length="190543"
         type="image/png"/>
-      <pubDate>Sat, 10 Mar 2018 07:19:42 +0100</pubDate>
-      <dc:date>2018-03-10T07:19:42.502752+01:00</dc:date>
+      <pubDate>Sat, 10 Mar 2018 11:38:56 +0100</pubDate>
+      <dc:date>2018-03-10T11:38:56.76515+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
@@ -949,6 +969,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-03-10T07:19:42.502752+01:00</dc:date>
+    <dc:date>2018-03-10T11:38:56.76515+01:00</dc:date>
   </channel>
 </rss>

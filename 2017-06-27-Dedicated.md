@@ -140,6 +140,8 @@
 
 ### CD&V (EPP)
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.3% | 100% |  |
@@ -149,6 +151,8 @@
 
 ### Open Vld (ALDE)
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-vld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 51% | 100% | Median |
@@ -156,6 +160,8 @@
 | 3 | 0% | 0% | Last Result |
 
 ### Vlaams Belang (ENF)
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -165,6 +171,8 @@
 
 ### sp.a (S&D)
 
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
@@ -173,6 +181,8 @@
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2017-06-27-Dedicated-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -152,6 +152,8 @@
 
 ### CD&V (EPP)
 
+![Graph with seats probability mass function not yet produced](2016-04-04-Dedicated-coalitions-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 64% | 100% | Last Result, Median |
@@ -159,6 +161,8 @@
 | 4 | 0% | 0% |  |
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2016-04-04-Dedicated-coalitions-seats-pmf-groen–piraat.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -168,6 +172,8 @@
 
 ### Open Vld (ALDE)
 
+![Graph with seats probability mass function not yet produced](2016-04-04-Dedicated-coalitions-seats-pmf-vld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 29% | 100% |  |
@@ -175,6 +181,8 @@
 | 3 | 0% | 0% | Last Result |
 
 ### Vlaams Belang (ENF)
+
+![Graph with seats probability mass function not yet produced](2016-04-04-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -184,6 +192,8 @@
 
 ### sp.a (S&D)
 
+![Graph with seats probability mass function not yet produced](2016-04-04-Dedicated-coalitions-seats-pmf-spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 9% | 100% | Last Result |
@@ -192,6 +202,8 @@
 | 4 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2016-04-04-Dedicated-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

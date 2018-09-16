@@ -153,6 +153,8 @@
 
 ### CD&V (EPP)
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-coalitions-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.4% | 100% |  |
@@ -161,6 +163,8 @@
 | 4 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-coalitions-seats-pmf-vld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -171,6 +175,8 @@
 
 ### Vlaams Belang (ENF)
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 37% | 100% | Last Result |
@@ -178,6 +184,8 @@
 | 3 | 0% | 0% |  |
 
 ### sp.a (S&D)
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-coalitions-seats-pmf-spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -188,6 +196,8 @@
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-coalitions-seats-pmf-groen–piraat.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 98.7% | 100% | Last Result, Median |
@@ -195,6 +205,8 @@
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

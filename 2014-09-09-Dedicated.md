@@ -163,6 +163,8 @@
 
 ### N-VA (ECR) – Lijst Dedecker (ECR)
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-n-va–ldd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 39% | 100% | Last Result |
@@ -171,6 +173,8 @@
 
 ### CD&V (EPP)
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 81% | 100% | Last Result, Median |
@@ -178,6 +182,8 @@
 | 4 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-vld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -188,6 +194,8 @@
 
 ### sp.a (S&D)
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
@@ -197,6 +205,8 @@
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-groen–piraat.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 99.4% | 100% | Last Result, Median |
@@ -205,6 +215,8 @@
 
 ### Vlaams Belang (ENF)
 
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 78% | 100% | Median |
@@ -212,6 +224,8 @@
 | 2 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

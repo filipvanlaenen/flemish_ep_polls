@@ -152,6 +152,8 @@
 
 ### CD&V (EPP)
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.3% | 100% |  |
@@ -161,6 +163,8 @@
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-groen–piraat.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 45% | 100% | Last Result |
@@ -168,6 +172,8 @@
 | 3 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-vld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -177,6 +183,8 @@
 
 ### Vlaams Belang (ENF)
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 58% | 100% | Last Result, Median |
@@ -185,6 +193,8 @@
 
 ### sp.a (S&D)
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 33% | 100% | Last Result |
@@ -192,6 +202,8 @@
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

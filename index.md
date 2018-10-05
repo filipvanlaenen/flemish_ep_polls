@@ -5,9 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VLD | CD&V | SP.A | GROEN | VB | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.7% <br> 4 | 20.4% <br> 3 | 20.0% <br> 2 | 13.2% <br> 1 | 10.6% <br> 1 | 6.8% <br> 1 | 2.4% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–35% <br> 3–5 | 12–17% <br> 1–2 | 14–18% <br> 2 | 8–14% <br> 1–2 | 11–16% <br> 1–2 | 6–11% <br> 0–1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24–29% <br> 3–4 | 12–16% <br> 1–2 | 13–18% <br> 2 | 10–14% <br> 1–2 | 11–15% <br> 1–2 | 8–12% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 30–35% <br> 4–5 | 13–17% <br> 1–2 | 14–19% <br> 2 | 8–11% <br> 1 | 12–16% <br> 1–2 | 6–9% <br> 0–1 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–28% <br> 3–4 | 11–15% <br> 1–2 | 15–20% <br> 2–3 | 10–14% <br> 1–2 | 12–16% <br> 1–2 | 10–13% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22–28% <br> 3–4 | 11–15% <br> 1–2 | 15–20% <br> 2–3 | 10–14% <br> 1–2 | 12–16% <br> 1–2 | 9–13% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 26.7% <br> 4 | 20.4% <br> 3 | 20.0% <br> 2 | 13.2% <br> 1 | 10.6% <br> 1 | 6.8% <br> 1 | 2.4% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Oct 2018 06:48:13 +0200</pubDate>
+    <pubDate>Sat, 06 Oct 2018 10:37:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-09-27-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2018-09-27-Ipsos.png"
         length="212064"
         type="image/png"/>
-      <pubDate>Fri, 05 Oct 2018 06:48:13 +0200</pubDate>
-      <dc:date>2018-10-05T06:48:13.953386+02:00</dc:date>
+      <pubDate>Sat, 06 Oct 2018 10:37:38 +0200</pubDate>
+      <dc:date>2018-10-06T10:37:38.521629+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for the Parties</title>
@@ -1039,6 +1039,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-10-05T06:48:13.953386+02:00</dc:date>
+    <dc:date>2018-10-06T10:37:38.521629+02:00</dc:date>
   </channel>
 </rss>

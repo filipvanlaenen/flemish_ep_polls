@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Dec 2018 18:35:13 +0100</pubDate>
+    <pubDate>Tue, 18 Dec 2018 12:09:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-12-08-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 25.7–31.2%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 16.4–21.2%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 15.3–20.0%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 13.9–18.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 6.1–9.4%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2018-12-08-TNS.png"
+        length="203663"
+        type="image/png"/>
+      <pubDate>Tue, 18 Dec 2018 12:09:31 +0100</pubDate>
+      <dc:date>2018-12-18T12:09:31.213976+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-12-03-Ipsos.html#seats</link>
@@ -1089,6 +1099,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-12-08T18:35:13.514721+01:00</dc:date>
+    <dc:date>2018-12-18T12:09:31.213976+01:00</dc:date>
   </channel>
 </rss>

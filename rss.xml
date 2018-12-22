@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Dec 2018 12:08:15 +0100</pubDate>
+    <pubDate>Sat, 22 Dec 2018 14:49:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Nieuwsblad, 13–17 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-12-17-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2018-12-17-Ipsos.png"
         length="199553"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 12:08:15 +0100</pubDate>
-      <dc:date>2018-12-22T12:08:15.029555+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 14:49:34 +0100</pubDate>
+      <dc:date>2018-12-22T14:49:34.49159+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Seat Projections for the Parties</title>
@@ -1129,6 +1129,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-12-22T12:08:15.029555+01:00</dc:date>
+    <dc:date>2018-12-22T14:49:34.49159+01:00</dc:date>
   </channel>
 </rss>

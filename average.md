@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | N-VA | VLD | CD&V | SP.A | GROEN | VB | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.7% <br> 4 | 20.4% <br> 3 | 20.0% <br> 2 | 13.2% <br> 1 | 10.6% <br> 1 | 6.8% <br> 1 | 2.4% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 26–33% <br> 3–4 | 10–20% <br> 1–2 | 14–21% <br> 1–3 | 8–12% <br> 1 | 12–18% <br> 1–2 | 6–14% <br> 0–2 | 2–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [13–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> Het Nieuwsblad | 27–33% <br> 4 | 10–14% <br> 1–2 | 14–18% <br> 1–3 | 8–12% <br> 1 | 12–16% <br> 1–2 | 10–14% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 26–33% <br> 3–5 | 10–20% <br> 1–2 | 14–21% <br> 2–3 | 8–12% <br> 1 | 12–18% <br> 1–2 | 6–14% <br> 0–2 | 2–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| [13–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> Het Nieuwsblad | 27–33% <br> 4–5 | 10–14% <br> 1–2 | 14–18% <br> 2 | 8–12% <br> 1 | 12–16% <br> 1–2 | 10–14% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 26–31% <br> 3–4 | 15–20% <br> 2–3 | 16–21% <br> 2–3 | 8–11% <br> 1 | 14–18% <br> 2 | 6–9% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 26.7% <br> 4 | 20.4% <br> 3 | 20.0% <br> 2 | 13.2% <br> 1 | 10.6% <br> 1 | 6.8% <br> 1 | 2.4% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -194,13 +194,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#n-va-(ecr)">N-VA (ECR)</a> | 4 | 4 | 4 |4 | 3–4 | 3–5 |
+| <a href="#n-va-(ecr)">N-VA (ECR)</a> | 4 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
 | <a href="#open-vld-(alde)">Open Vld (ALDE)</a> | 3 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
-| <a href="#cd&v-(epp)">CD&V (EPP)</a> | 2 | 2 | 1–3 |1–3 | 1–3 | 1–3 |
+| <a href="#cd&v-(epp)">CD&V (EPP)</a> | 2 | 2 | 2 |2–3 | 2–3 | 2–3 |
 | <a href="#sp.a-(s&d)">sp.a (S&D)</a> | 1 | 1 | 1 |1 | 1 | 1 |
-| <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 2 | 2 |2 | 1–2 | 1–2 |
+| <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 2 | 2 |1–2 | 1–2 | 1–2 |
 | <a href="#vlaams-belang-(enf)">Vlaams Belang (ENF)</a> | 1 | 1 | 1–2 |1–2 | 0–2 | 0–2 |
-| <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 | <a href="#piratenpartij-(greens/efa)">Piratenpartij (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lijst-dedecker-(ecr)">Lijst Dedecker (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
@@ -213,8 +213,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 94% | 96% | Last Result, Median |
-| 5 | 1.4% | 1.4% |  |
+| 4 | 74% | 96% | Last Result, Median |
+| 5 | 21% | 21% |  |
 | 6 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
@@ -225,8 +225,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% |  |
-| 2 | 79% | 80% | Median |
+| 1 | 41% | 100% |  |
+| 2 | 57% | 59% | Median |
 | 3 | 1.4% | 1.4% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -238,9 +238,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 17% | 100% |  |
-| 2 | 72% | 83% | Last Result, Median |
-| 3 | 11% | 11% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 92% | 99.8% | Last Result, Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 ### sp.a (S&D)
@@ -251,8 +251,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.8% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.7% | 100% | Last Result, Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Groen (Greens/EFA)
@@ -263,9 +263,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% | Last Result |
-| 2 | 97% | 97% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 5% | 100% | Last Result |
+| 2 | 95% | 95% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Vlaams Belang (ENF)
@@ -277,8 +277,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
-| 1 | 83% | 96% | Last Result, Median |
-| 2 | 13% | 13% |  |
+| 1 | 81% | 96% | Last Result, Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
@@ -289,8 +289,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -302,13 +302,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N-VA (ECR) – Lijst Dedecker (ECR) | 4 | 4 | 0% | 4 | 4 | 3–4 | 3–5 |
-| CD&V (EPP) | 2 | 2 | 0% | 1–3 | 1–3 | 1–3 | 1–3 |
-| Groen (Greens/EFA) – Piratenpartij (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
+| N-VA (ECR) – Lijst Dedecker (ECR) | 4 | 4 | 0% | 4–5 | 4–5 | 3–5 | 3–5 |
+| CD&V (EPP) | 2 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| Groen (Greens/EFA) – Piratenpartij (Greens/EFA) | 1 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
 | Open Vld (ALDE) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vlaams Belang (ENF) | 1 | 1 | 0% | 1–2 | 1–2 | 0–2 | 0–2 |
 | sp.a (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| PVDA (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| PVDA (GUE/NGL) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
 
 ### N-VA (ECR) – Lijst Dedecker (ECR)
 
@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 94% | 96% | Last Result, Median |
-| 5 | 1.4% | 1.4% |  |
+| 4 | 74% | 96% | Last Result, Median |
+| 5 | 21% | 21% |  |
 | 6 | 0% | 0% |  |
 
 ### CD&V (EPP)
@@ -327,9 +327,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 17% | 100% |  |
-| 2 | 72% | 83% | Last Result, Median |
-| 3 | 11% | 11% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 92% | 99.8% | Last Result, Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 ### Groen (Greens/EFA) – Piratenpartij (Greens/EFA)
@@ -338,9 +338,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% | Last Result |
-| 2 | 97% | 97% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 5% | 100% | Last Result |
+| 2 | 95% | 95% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Open Vld (ALDE)
@@ -349,8 +349,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% |  |
-| 2 | 79% | 80% | Median |
+| 1 | 41% | 100% |  |
+| 2 | 57% | 59% | Median |
 | 3 | 1.4% | 1.4% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -361,8 +361,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
-| 1 | 83% | 96% | Last Result, Median |
-| 2 | 13% | 13% |  |
+| 1 | 81% | 96% | Last Result, Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### sp.a (S&D)
@@ -371,8 +371,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.8% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.7% | 100% | Last Result, Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### PVDA (GUE/NGL)
@@ -381,14 +381,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 1,049,600
-+ **Error estimate:** 4.72%
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 1,179,648
++ **Error estimate:** 1.81%

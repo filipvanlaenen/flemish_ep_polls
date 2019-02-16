@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 23 Dec 2018 21:06:41 +0100</pubDate>
+    <pubDate>Sat, 16 Feb 2019 12:28:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 5–11 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos-seats.png"
+        length="170583"
+        type="image/png"/>
+      <pubDate>Sat, 16 Feb 2019 12:28:18 +0100</pubDate>
+      <dc:date>2019-02-16T12:28:18.293264+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 5–11 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos-coalitions-seats.png"
+        length="147779"
+        type="image/png"/>
+      <pubDate>Sat, 16 Feb 2019 12:28:18 +0100</pubDate>
+      <dc:date>2019-02-16T12:28:18.293264+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 5–11 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 24.7–30.3%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 12.9–17.3%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 10.7–14.9%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 9.2–13.2%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 13.4–18.0%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ENF): 9.3–13.3%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 3.7–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos.png"
+        length="205979"
+        type="image/png"/>
+      <pubDate>Sat, 16 Feb 2019 12:28:18 +0100</pubDate>
+      <dc:date>2019-02-16T12:28:18.293264+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Nieuwsblad, 13–17 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2018-12-17-Ipsos.html#seats</link>
@@ -1149,6 +1179,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2018-12-23T21:06:41.174007+01:00</dc:date>
+    <dc:date>2019-02-16T12:28:18.293264+01:00</dc:date>
   </channel>
 </rss>

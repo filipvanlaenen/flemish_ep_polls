@@ -15,7 +15,7 @@
 | CD&V (EPP) | 20.0% | 16.0% | 14.4–17.8% |13.9–18.3% |13.5–18.8% |12.8–19.7% |
 | Open Vld (ALDE) | 20.4% | 14.4% | 12.8–16.1% |12.4–16.6% |12.0–17.1% |11.3–18.0% |
 | Groen (Greens/EFA) | 10.6% | 10.1% | 8.8–11.6% |8.4–12.1% |8.1–12.5% |7.5–13.2% |
-| Vlaams Belang (ENF) | 6.8% | 9.7% | 8.4–11.2% |8.0–11.6% |7.7–12.0% |7.2–12.8% |
+| Vlaams Belang (EAPN) | 6.8% | 9.7% | 8.4–11.2% |8.0–11.6% |7.7–12.0% |7.2–12.8% |
 | PVDA (GUE/NGL) | 2.4% | 3.8% | 3.0–4.8% |2.8–5.1% |2.6–5.4% |2.3–5.9% |
 | Piratenpartij (Greens/EFA) | 0.0% | 1.2% | 0.8–1.9% |0.7–2.1% |0.6–2.3% |0.5–2.7% |
 
@@ -34,7 +34,7 @@
 | <a href="#cd&v-(epp)">CD&V (EPP)</a> | 2 | 2 | 2 |2 |2 |2–3 |
 | <a href="#open-vld-(alde)">Open Vld (ALDE)</a> | 3 | 2 | 2 |2 |1–2 |1–2 |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |1–2 |
-| <a href="#vlaams-belang-(enf)">Vlaams Belang (ENF)</a> | 1 | 1 | 1 |1 |1 |1–2 |
+| <a href="#vlaams-belang-(eapn)">Vlaams Belang (EAPN)</a> | 1 | 1 | 1 |1 |1 |1–2 |
 | <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#piratenpartij-(greens/efa)">Piratenpartij (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -102,11 +102,11 @@
 | 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
-*For a full overview of the results for this party, see the [Vlaams Belang (ENF)](party-vlaamsbelangenf.html) page.*
+*For a full overview of the results for this party, see the [Vlaams Belang (EAPN)](party-vlaamsbelangeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-seats-pmf-vlaamsbelangenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-seats-pmf-vlaamsbelangeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -149,7 +149,7 @@
 | CD&V (EPP) | 2 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Open Vld (ALDE) | 3 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Groen (Greens/EFA) – Piratenpartij (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Vlaams Belang (ENF) | 1 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Vlaams Belang (EAPN) | 1 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | PVDA (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### sp.a (S&D)
@@ -195,7 +195,7 @@
 | 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
 

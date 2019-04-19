@@ -15,7 +15,7 @@
 | Open Vld (ALDE) | 20.4% | 15.4% | 13.9–17.2% |13.4–17.7% |13.0–18.1% |12.3–19.0% |
 | sp.a (S&D) | 13.2% | 15.0% | 13.5–16.8% |13.1–17.3% |12.7–17.7% |12.0–18.5% |
 | Groen (Greens/EFA) | 10.6% | 9.6% | 8.4–11.1% |8.0–11.5% |7.7–11.9% |7.2–12.6% |
-| Vlaams Belang (ENF) | 6.8% | 5.6% | 4.6–6.8% |4.4–7.1% |4.2–7.4% |3.8–8.0% |
+| Vlaams Belang (EAPN) | 6.8% | 5.6% | 4.6–6.8% |4.4–7.1% |4.2–7.4% |3.8–8.0% |
 | PVDA (GUE/NGL) | 2.4% | 3.2% | 2.5–4.1% |2.3–4.4% |2.1–4.6% |1.9–5.1% |
 | Piratenpartij (Greens/EFA) | 0.0% | 0.8% | 0.5–1.3% |0.4–1.5% |0.4–1.6% |0.2–2.0% |
 | Lijst Dedecker (ECR) | 0.0% | 0.6% | 0.4–1.2% |0.3–1.3% |0.3–1.5% |0.2–1.8% |
@@ -35,7 +35,7 @@
 | <a href="#open-vld-(alde)">Open Vld (ALDE)</a> | 3 | 2 | 2 |2 |2 |1–3 |
 | <a href="#sp.a-(s&d)">sp.a (S&D)</a> | 1 | 2 | 2 |2 |1–2 |1–3 |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |1–2 |
-| <a href="#vlaams-belang-(enf)">Vlaams Belang (ENF)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#vlaams-belang-(eapn)">Vlaams Belang (EAPN)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#piratenpartij-(greens/efa)">Piratenpartij (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#lijst-dedecker-(ecr)">Lijst Dedecker (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -102,11 +102,11 @@
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
-*For a full overview of the results for this party, see the [Vlaams Belang (ENF)](party-vlaamsbelangenf.html) page.*
+*For a full overview of the results for this party, see the [Vlaams Belang (EAPN)](party-vlaamsbelangeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-vlaamsbelangenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-seats-pmf-vlaamsbelangeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -158,7 +158,7 @@
 | Open Vld (ALDE) | 3 | 2 | 0% | 2 | 2 | 2 | 1–3 |
 | sp.a (S&D) | 1 | 2 | 0% | 2 | 2 | 1–2 | 1–3 |
 | Groen (Greens/EFA) – Piratenpartij (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Vlaams Belang (ENF) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Vlaams Belang (EAPN) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | PVDA (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### N-VA (ECR) – Lijst Dedecker (ECR)
@@ -213,7 +213,7 @@
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2014-09-09-Dedicated-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
 

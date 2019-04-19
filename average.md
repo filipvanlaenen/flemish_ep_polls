@@ -24,7 +24,7 @@ Only polls for which at least the sample size has been published are included in
 + **CD&V:** CD&V (EPP)
 + **SP.A:** sp.a (S&D)
 + **GROEN:** Groen (Greens/EFA)
-+ **VB:** Vlaams Belang (ENF)
++ **VB:** Vlaams Belang (EAPN)
 + **PVDA:** PVDA (GUE/NGL)
 + **PIRAAT:** Piratenpartij (Greens/EFA)
 + **LDD:** Lijst Dedecker (ECR)
@@ -44,7 +44,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#cd&v-(epp)">CD&V (EPP)</a> | 20.0% | 16.9% | 14.1–19.8% |13.6–20.3% | 13.2–20.8% | 12.5–21.7% |
 | <a href="#sp.a-(s&d)">sp.a (S&D)</a> | 13.2% | 10.1% | 8.5–12.0% |8.1–12.4% | 7.8–12.8% | 7.3–13.5% |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 10.6% | 15.8% | 14.4–17.4% |14.0–17.8% | 13.6–18.2% | 13.0–19.0% |
-| <a href="#vlaams-belang-(enf)">Vlaams Belang (ENF)</a> | 6.8% | 9.4% | 7.0–12.0% |6.7–12.5% | 6.4–12.9% | 5.9–13.7% |
+| <a href="#vlaams-belang-(eapn)">Vlaams Belang (EAPN)</a> | 6.8% | 9.4% | 7.0–12.0% |6.7–12.5% | 6.4–12.9% | 5.9–13.7% |
 | <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 2.4% | 3.7% | 2.2–5.6% |2.0–5.9% | 1.8–6.2% | 1.6–6.7% |
 | <a href="#piratenpartij-(greens/efa)">Piratenpartij (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lijst-dedecker-(ecr)">Lijst Dedecker (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -146,9 +146,9 @@ Only polls for which at least the sample size has been published are included in
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
-*For a full overview of the results for this party, see the [Vlaams Belang (ENF)](party-vlaamsbelangenf.html) page.*
+*For a full overview of the results for this party, see the [Vlaams Belang (EAPN)](party-vlaamsbelangeapn.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -196,7 +196,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#cd&v-(epp)">CD&V (EPP)</a> | 2 | 2 | 2 |2–3 | 2–3 | 2–3 |
 | <a href="#sp.a-(s&d)">sp.a (S&D)</a> | 1 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 2 | 2 |2 | 2 | 1–3 |
-| <a href="#vlaams-belang-(enf)">Vlaams Belang (ENF)</a> | 1 | 1 | 1 |1–2 | 0–2 | 0–2 |
+| <a href="#vlaams-belang-(eapn)">Vlaams Belang (EAPN)</a> | 1 | 1 | 1 |1–2 | 0–2 | 0–2 |
 | <a href="#pvda-(gue/ngl)">PVDA (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#piratenpartij-(greens/efa)">Piratenpartij (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lijst-dedecker-(ecr)">Lijst Dedecker (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -265,11 +265,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
-*For a full overview of the results for this party, see the [Vlaams Belang (ENF)](party-vlaamsbelangenf.html) page.*
+*For a full overview of the results for this party, see the [Vlaams Belang (EAPN)](party-vlaamsbelangeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-vlaamsbelangenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-vlaamsbelangeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -304,7 +304,7 @@ Only polls for which at least the sample size has been published are included in
 | Groen (Greens/EFA) – Piratenpartij (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 1–3 |
 | Open Vld (ALDE) | 3 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | sp.a (S&D) | 1 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
-| Vlaams Belang (ENF) | 1 | 1 | 0% | 1 | 1–2 | 0–2 | 0–2 |
+| Vlaams Belang (EAPN) | 1 | 1 | 0% | 1 | 1–2 | 0–2 | 0–2 |
 | PVDA (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### N-VA (ECR) – Lijst Dedecker (ECR)
@@ -361,7 +361,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
-### Vlaams Belang (ENF)
+### Vlaams Belang (EAPN)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vb.png "Seats Probability Mass Function")
 

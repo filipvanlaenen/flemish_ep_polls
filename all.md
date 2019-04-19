@@ -56,7 +56,7 @@ Only polls for which at least the sample size has been published are included in
 + **CD&V:** CD&V (EPP)
 + **SP.A:** sp.a (S&D)
 + **GROEN:** Groen (Greens/EFA)
-+ **VB:** Vlaams Belang (ENF)
++ **VB:** Vlaams Belang (EAPN)
 + **PVDA:** PVDA (GUE/NGL)
 + **PIRAAT:** Piratenpartij (Greens/EFA)
 + **LDD:** Lijst Dedecker (ECR)

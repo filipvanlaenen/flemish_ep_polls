@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Feb 2019 12:28:18 +0100</pubDate>
+    <pubDate>Sun, 28 Apr 2019 11:35:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 25 March–14 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-04-14-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA (ECR): 25.2–30.8%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V (EPP): 12.7–17.0%&lt;/li&gt;&lt;li&gt;Open Vld (ALDE): 12.2–16.5%&lt;/li&gt;&lt;li&gt;sp.a (S&amp;amp;D): 10.8–14.9%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 12.6–16.9%&lt;/li&gt;&lt;li&gt;Vlaams Belang (EAPN): 7.7–11.3%&lt;/li&gt;&lt;li&gt;PVDA (GUE/NGL): 4.6–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-04-14-TNS.png"
+        length="207748"
+        type="image/png"/>
+      <pubDate>Sun, 28 Apr 2019 11:35:36 +0200</pubDate>
+      <dc:date>2019-04-28T11:35:36.68995+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 5–11 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-02-11-Ipsos.html#seats</link>
@@ -1179,6 +1189,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2019-02-16T12:28:18.293264+01:00</dc:date>
+    <dc:date>2019-04-28T11:35:36.68995+02:00</dc:date>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 12:25:37 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 19:46:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 6–14 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-05-14-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-05-14-Ipsos.png"
         length="205818"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 12:25:37 +0200</pubDate>
-      <dc:date>2019-05-18T12:25:37.517139+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 19:46:17 +0200</pubDate>
+      <dc:date>2019-05-18T19:46:17.933778+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 25 March–14 April 2019 – Seat Projections for the Parties</title>
@@ -1219,6 +1219,6 @@
       <pubDate>Sun, 11 Feb 2018 12:55:17 +0100</pubDate>
       <dc:date>2018-02-11T12:55:17.543001+01:00</dc:date>
     </item>
-    <dc:date>2019-05-18T12:25:37.517139+02:00</dc:date>
+    <dc:date>2019-05-18T19:46:17.933778+02:00</dc:date>
   </channel>
 </rss>

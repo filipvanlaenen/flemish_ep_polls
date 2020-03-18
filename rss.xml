@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 15 Mar 2020 22:00:37 +0100</pubDate>
+    <pubDate>Wed, 18 Mar 2020 17:57:19 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos-seats.png"
+        length="198756"
+        type="image/png"/>
+      <pubDate>Wed, 18 Mar 2020 17:57:19 +0100</pubDate>
+      <dc:date>2020-03-18T17:57:19.533701+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos-coalitions-seats.png"
+        length="157561"
+        type="image/png"/>
+      <pubDate>Wed, 18 Mar 2020 17:57:19 +0100</pubDate>
+      <dc:date>2020-03-18T17:57:19.533701+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos.png"
         length="240981"
         type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 22:00:37 +0100</pubDate>
-      <dc:date>2020-03-15T22:00:37.683093+01:00</dc:date>
+      <pubDate>Wed, 18 Mar 2020 17:57:19 +0100</pubDate>
+      <dc:date>2020-03-18T17:57:19.533701+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Seat Projections for the Parties</title>
@@ -79,6 +99,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46.529027+01:00</dc:date>
     </item>
-    <dc:date>2020-03-15T22:00:37.683093+01:00</dc:date>
+    <dc:date>2020-03-18T17:57:19.533701+01:00</dc:date>
   </channel>
 </rss>

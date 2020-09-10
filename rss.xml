@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jun 2020 22:22:44 +0200</pubDate>
+    <pubDate>Thu, 10 Sep 2020 08:28:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Dedicated for Soirmag, 28 August–1 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-09-01-Dedicated.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 2–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-09-01-Dedicated-seats.png"
+        length="261668"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 08:28:12 +0200</pubDate>
+      <dc:date>2020-09-10T08:28:12.701448+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Dedicated for Soirmag, 28 August–1 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-09-01-Dedicated.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-09-01-Dedicated-coalitions-seats.png"
+        length="220209"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 08:28:12 +0200</pubDate>
+      <dc:date>2020-09-10T08:28:12.701448+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Dedicated for Soirmag, 28 August–1 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-09-01-Dedicated.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 20.0–26.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 10.6–16.0%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 11.8–17.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders (S&amp;amp;D): 10.6–16.0%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 5.4–9.6%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 23.5–30.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1.0–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-09-01-Dedicated.png"
+        length="313747"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 08:28:12 +0200</pubDate>
+      <dc:date>2020-09-10T08:28:12.701448+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 10–15 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-06-15-Ipsos.html#seats</link>
@@ -159,6 +189,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46.529027+01:00</dc:date>
     </item>
-    <dc:date>2020-06-21T22:22:44.37473+02:00</dc:date>
+    <dc:date>2020-09-10T08:28:12.701448+02:00</dc:date>
   </channel>
 </rss>

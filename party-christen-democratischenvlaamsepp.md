@@ -10,7 +10,7 @@ Last result: **14.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.8% | 10.5–13.2% | 10.2–13.6% | 9.9–14.0% | 9.3–14.7% |
+| N/A | [Poll Average](average.html) | 12.4% | 10.8–14.4% | 10.4–15.0% | 10.1–15.5% | 9.5–16.5% |
 | [28 August–1 September 2020](2020-09-01-Dedicated.html) | Dedicated <br> Soirmag | 13.0% | 11.4–15.0% | 11.0–15.5% | 10.6–16.0% | 9.8–16.9% |
 | [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11.8% | 10.5–13.2% | 10.2–13.6% | 9.9–14.0% | 9.3–14.7% |
 | [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 11.9% | 11.0–12.9% | 10.7–13.2% | 10.5–13.5% | 10.1–14.0% |
@@ -25,15 +25,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 1.0% | 100% |  |
-| 9.5–10.5% | 9% | 99.0% |  |
-| 10.5–11.5% | 29% | 90% |  |
-| 11.5–12.5% | 35% | 61% | Median |
-| 12.5–13.5% | 19% | 25% |  |
-| 13.5–14.5% | 5% | 6% |  |
-| 14.5–15.5% | 0.7% | 0.7% | Last Result |
-| 15.5–16.5% | 0% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.6% | 100% |  |
+| 9.5–10.5% | 6% | 99.4% |  |
+| 10.5–11.5% | 19% | 94% |  |
+| 11.5–12.5% | 28% | 74% | Median |
+| 12.5–13.5% | 24% | 46% |  |
+| 13.5–14.5% | 14% | 22% |  |
+| 14.5–15.5% | 6% | 8% | Last Result |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.4% | 0.5% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,8 +62,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 84% | 100% | Median |
-| 2 | 16% | 16% | Last Result |
+| 1 | 69% | 100% | Median |
+| 2 | 31% | 31% | Last Result |
 | 3 | 0% | 0% |  |
 
 

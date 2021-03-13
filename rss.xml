@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Dec 2020 12:16:48 +0100</pubDate>
+    <pubDate>Sat, 13 Mar 2021 11:05:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-03-09-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-03-09-Ipsos-seats.png"
+        length="224065"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 11:05:18 +0100</pubDate>
+      <dc:date>2021-03-13T11:05:18.200004+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-03-09-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-03-09-Ipsos-coalitions-seats.png"
+        length="167915"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 11:05:18 +0100</pubDate>
+      <dc:date>2021-03-13T11:05:18.200004+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-03-09-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 11.3–15.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 11.0–15.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders (S&amp;amp;D): 10.4–14.5%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 21.0–26.3%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 6.6–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-03-09-Ipsos.png"
+        length="306510"
+        type="image/png"/>
+      <pubDate>Sat, 13 Mar 2021 11:05:18 +0100</pubDate>
+      <dc:date>2021-03-13T11:05:18.200004+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2020-12-08-Ipsos.html#seats</link>
@@ -249,6 +279,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46.529027+01:00</dc:date>
     </item>
-    <dc:date>2020-12-12T12:16:48.87544+01:00</dc:date>
+    <dc:date>2021-03-13T11:05:18.200004+01:00</dc:date>
   </channel>
 </rss>

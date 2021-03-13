@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | SP.A | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–22% <br> 2–3 | 24–29% <br> 3–4 | 10–14% <br> 1–2 | 10–15% <br> 1–2 | 7–10% <br> 1 | 12–16% <br> 1–2 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–22% <br> 2–3 | 24–29% <br> 3–4 | 10–14% <br> 1–2 | 11–15% <br> 1–2 | 7–10% <br> 1 | 12–16% <br> 1–2 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–23% <br> 2–3 | 21–26% <br> 3–4 | 11–15% <br> 1–2 | 11–16% <br> 1–2 | 7–10% <br> 1 | 10–14% <br> 1–2 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2–3 | 21–26% <br> 3–4 | 11–15% <br> 1–2 | 11–15% <br> 1–2 | 7–10% <br> 1 | 10–15% <br> 1–2 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

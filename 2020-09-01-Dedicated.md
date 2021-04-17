@@ -14,7 +14,7 @@
 | Nieuw-Vlaamse Alliantie (ECR) | 22.4% | 23.2% | 21.1–25.6% |20.5–26.2% |20.0–26.8% |19.1–27.9% |
 | Open Vlaamse Liberalen en Democraten (RE) | 16.0% | 14.4% | 12.7–16.4% |12.2–16.9% |11.8–17.4% |11.0–18.4% |
 | Christen-Democratisch en Vlaams (EPP) | 14.5% | 13.0% | 11.4–15.0% |11.0–15.5% |10.6–16.0% |9.8–16.9% |
-| Socialistische Partij Anders (S&D) | 10.2% | 13.0% | 11.4–15.0% |11.0–15.5% |10.6–16.0% |9.8–16.9% |
+| Vooruit (S&D) | 10.2% | 13.0% | 11.4–15.0% |11.0–15.5% |10.6–16.0% |9.8–16.9% |
 | Groen (Greens/EFA) | 12.4% | 7.2% | 6.0–8.7% |5.7–9.2% |5.4–9.6% |4.9–10.3% |
 | Partij van de Arbeid van België (GUE/NGL) | 5.0% | 1.8% | 1.3–2.8% |1.2–3.0% |1.0–3.3% |0.8–3.8% |
 
@@ -34,7 +34,7 @@
 | <a href="#nieuw-vlaamse-alliantie-(ecr)">Nieuw-Vlaamse Alliantie (ECR)</a> | 3 | 3 | 3 |3–4 |2–4 |2–4 |
 | <a href="#open-vlaamse-liberalen-en-democraten-(re)">Open Vlaamse Liberalen en Democraten (RE)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#christen-democratisch-en-vlaams-(epp)">Christen-Democratisch en Vlaams (EPP)</a> | 2 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#socialistische-partij-anders-(s&d)">Socialistische Partij Anders (S&D)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#vooruit-(s&d)">Vooruit (S&D)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#partij-van-de-arbeid-van-belgië-(gue/ngl)">Partij van de Arbeid van België (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -89,11 +89,11 @@
 | 2 | 46% | 46% | Last Result |
 | 3 | 0% | 0% |  |
 
-### Socialistische Partij Anders (S&D)
+### Vooruit (S&D)
 
-*For a full overview of the results for this party, see the [Socialistische Partij Anders (S&D)](party-socialistischepartijanderssd.html) page.*
+*For a full overview of the results for this party, see the [Vooruit (S&D)](party-vooruitsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-seats-pmf-socialistischepartijanderssd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-seats-pmf-vooruitsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -135,7 +135,7 @@
 | Vlaams Belang (ID) | 3 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch en Vlaams (EPP) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten (RE) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij Anders (S&D) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vooruit (S&D) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Vlaams Belang (ID)
@@ -170,9 +170,9 @@
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
-### Socialistische Partij Anders (S&D)
+### Vooruit (S&D)
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

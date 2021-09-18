@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:46 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-09-14-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2021-09-14-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2021-09-14-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-09-14-Ipsos.png" length="299460" type="image/png"/>
+      <pubDate>Sat, 18 Sep 2021 19:06:09 +0200</pubDate>
+      <dc:date>2021-09-18T19:06:09.693957+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 May–1 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-06-01-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 May–1 June 2021<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2021-06-01-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2021-06-01-Ipsos-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2020-03-09-Ipsos.png" length="290057" type="image/png"/>
       <pubDate>Wed, 18 Mar 2020 17:57:19 +0100</pubDate>
       <dc:date>2020-03-18T17:57:19.533701+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos-seating-plan.png" length="377663" type="image/png"/>
-      <pubDate>Sat, 14 Dec 2019 17:21:28 +0100</pubDate>
-      <dc:date>2019-12-14T17:21:28.80369+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos-seats.png" length="194618" type="image/png"/>
-      <pubDate>Sat, 14 Dec 2019 17:21:28 +0100</pubDate>
-      <dc:date>2019-12-14T17:21:28.80369+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2019-12-06-Ipsos.png" length="293988" type="image/png"/>
-      <pubDate>Sat, 14 Dec 2019 17:21:28 +0100</pubDate>
-      <dc:date>2019-12-14T17:21:28.80369+01:00</dc:date>
     </item>
   </channel>
 </rss>

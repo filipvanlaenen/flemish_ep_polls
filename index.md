@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 19–24% <br> 2–3 | 22–27% <br> 3–4 | 9–12% <br> 1 | 9–13% <br> 1 | 7–10% <br> 1 | 12–16% <br> 1–2 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [1 December 2021](2021-12-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 2–3 | 22–27% <br> 3–4 | 9–12% <br> 1 | 9–13% <br> 1 | 7–10% <br> 1 | 12–16% <br> 1–2 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [1–8 December 2021](2021-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 2–3 | 22–27% <br> 3–4 | 9–12% <br> 1 | 9–13% <br> 1 | 7–10% <br> 1 | 12–16% <br> 1–2 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

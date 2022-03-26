@@ -8,36 +8,66 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 10 Dec 2021 20:07:58 +0100</pubDate>
+    <pubDate>Sat, 26 Mar 2022 17:35:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-22-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-22-Ipsos-seats.png"
+        length="194358"
+        type="image/png"/>
+      <pubDate>Fri, 25 Mar 2022 21:14:22 +0100</pubDate>
+      <dc:date>2022-03-25T21:14:22.715492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-22-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-22-Ipsos-coalitions-seats.png"
+        length="147311"
+        type="image/png"/>
+      <pubDate>Fri, 25 Mar 2022 21:14:22 +0100</pubDate>
+      <dc:date>2022-03-25T21:14:22.715492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-22-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 20.9–26.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 9.5–13.4%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 8.1–11.8%&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 12.2–16.5%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 19.8–24.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 7.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-22-Ipsos.png"
+        length="299406"
+        type="image/png"/>
+      <pubDate>Fri, 25 Mar 2022 21:14:22 +0100</pubDate>
+      <dc:date>2022-03-25T21:14:22.715492+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–8 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-12-08-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-12-08-Ipsos-seats.png"
-        length="208755"
+        length="208818"
         type="image/png"/>
-      <pubDate>Fri, 10 Dec 2021 20:07:58 +0100</pubDate>
-      <dc:date>2021-12-10T20:07:58.196958+01:00</dc:date>
+      <pubDate>Sat, 26 Mar 2022 17:35:11 +0100</pubDate>
+      <dc:date>2022-03-26T17:35:11.223842+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–8 December 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-12-08-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-12-08-Ipsos-coalitions-seats.png"
-        length="160858"
+        length="160941"
         type="image/png"/>
-      <pubDate>Fri, 10 Dec 2021 20:07:58 +0100</pubDate>
-      <dc:date>2021-12-10T20:07:58.196958+01:00</dc:date>
+      <pubDate>Sat, 26 Mar 2022 17:35:11 +0100</pubDate>
+      <dc:date>2022-03-26T17:35:11.223842+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–8 December 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2021-12-08-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 19.1–24.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 8.6–12.4%&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 11.8–16.2%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 21.9–27.3%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 7.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2021-12-08-Ipsos.png"
-        length="298586"
+        length="298662"
         type="image/png"/>
-      <pubDate>Fri, 10 Dec 2021 20:07:58 +0100</pubDate>
-      <dc:date>2021-12-10T20:07:58.196958+01:00</dc:date>
+      <pubDate>Sat, 26 Mar 2022 17:35:11 +0100</pubDate>
+      <dc:date>2022-03-26T17:35:11.223842+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Seat Projections for the Parties</title>
@@ -399,6 +429,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46+01:00</dc:date>
     </item>
-    <dc:date>2021-12-10T20:07:58.196958+01:00</dc:date>
+    <dc:date>2022-03-26T17:35:11.223842+01:00</dc:date>
   </channel>
 </rss>

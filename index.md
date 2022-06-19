@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | VOORUIT | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–26% <br> 3 | 20–25% <br> 3 | 8–12% <br> 1 | 8–13% <br> 1 | 7–11% <br> 1 | 12–17% <br> 1–2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 21–27% <br> 3–4 | 20–25% <br> 3 | 8–12% <br> 1 | 8–12% <br> 1 | 7–10% <br> 1 | 13–17% <br> 2 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22–28% <br> 3–4 | 20–25% <br> 3 | 8–11% <br> 1 | 8–12% <br> 1 | 6–10% <br> 0–1 | 13–17% <br> 1–2 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [14–31 March 2022](2022-03-31-TNS.html) | TNS <br> De Standaard and VRT | 21–24% <br> 3 | 21–25% <br> 3 | 9–12% <br> 1 | 8–10% <br> 1 | 8–11% <br> 1 | 14–17% <br> 2 | 8–10% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [15–22 March 2022](2022-03-22-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21–26% <br> 3–4 | 20–25% <br> 3 | 8–12% <br> 1 | 10–13% <br> 1–2 | 7–10% <br> 1 | 12–17% <br> 1–2 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

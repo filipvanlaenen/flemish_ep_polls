@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 Feb 2023 16:54:55 +0100</pubDate>
+    <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos-seats.png"
+        length="236157"
+        type="image/png"/>
+      <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
+      <dc:date>2023-03-31T22:33:20.106872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos-coalitions-seats.png"
+        length="195626"
+        type="image/png"/>
+      <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
+      <dc:date>2023-03-31T22:33:20.106872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 19.2–24.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 9.9–14.0%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 13.4–17.9%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 6.5–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.png"
+        length="296492"
+        type="image/png"/>
+      <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
+      <dc:date>2023-03-31T22:33:20.106872+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-01-29-Kantar.html#seats</link>
@@ -579,6 +609,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46+01:00</dc:date>
     </item>
-    <dc:date>2023-02-19T16:54:55.527597+01:00</dc:date>
+    <dc:date>2023-03-31T22:33:20.106872+02:00</dc:date>
   </channel>
 </rss>

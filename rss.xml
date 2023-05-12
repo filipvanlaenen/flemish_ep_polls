@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
+    <pubDate>Fri, 12 May 2023 18:27:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
       <dc:date>2023-03-31T22:33:20.106872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard and VRT, 13–23 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-23-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-23-TNS-seats.png"
+        length="167625"
+        type="image/png"/>
+      <pubDate>Fri, 12 May 2023 18:27:51 +0200</pubDate>
+      <dc:date>2023-05-12T18:27:51.718064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard and VRT, 13–23 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-23-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-23-TNS-coalitions-seats.png"
+        length="112914"
+        type="image/png"/>
+      <pubDate>Fri, 12 May 2023 18:27:51 +0200</pubDate>
+      <dc:date>2023-05-12T18:27:51.718064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard and VRT, 13–23 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-23-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 8.0–10.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 8.1–10.6%&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 15.3–18.5%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 6.8–9.1%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 22.8–26.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 8.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-23-TNS.png"
+        length="272231"
+        type="image/png"/>
+      <pubDate>Fri, 12 May 2023 18:27:51 +0200</pubDate>
+      <dc:date>2023-05-12T18:27:51.718064+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Seat Projections for the Parties</title>
@@ -609,6 +639,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46+01:00</dc:date>
     </item>
-    <dc:date>2023-03-31T22:33:20.106872+02:00</dc:date>
+    <dc:date>2023-05-12T18:27:51.718064+02:00</dc:date>
   </channel>
 </rss>

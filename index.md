@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 30 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 19–24% <br> 3 | 20–25% <br> 3 | 7–10% <br> 1 | 9–13% <br> 1 | 6–9% <br> 0–1 | 15–19% <br> 2 | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [9 June 2023](2023-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 3 | 20–25% <br> 3 | 7–10% <br> 1 | 9–13% <br> 1 | 6–9% <br> 0–1 | 15–19% <br> 2 | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 3 | 20–25% <br> 3 | 7–10% <br> 1 | 9–13% <br> 1 | 6–9% <br> 0–1 | 15–19% <br> 2 | 9–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

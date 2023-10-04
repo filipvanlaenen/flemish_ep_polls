@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | VOORUIT | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–24% <br> 3–4 | 20–25% <br> 3–4 | 7–10% <br> 1 | 9–13% <br> 1–2 | 6–9% <br> 1 | 15–19% <br> 2–3 | 9–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 3–4 | 20–25% <br> 3–4 | 7–10% <br> 1 | 9–13% <br> 1–2 | 6–9% <br> 1 | 15–19% <br> 2–3 | 9–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–23% <br> 2–3 | 23–29% <br> 3–4 | 7–10% <br> 1 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 13–18% <br> 2 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2–3 | 23–29% <br> 3–4 | 7–10% <br> 1 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 13–18% <br> 2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

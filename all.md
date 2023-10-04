@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | VOORUIT | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2–3 | 23–29% <br> 3–4 | 7–10% <br> 1 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 13–18% <br> 2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 3–4 | 20–25% <br> 3–4 | 7–10% <br> 1 | 9–13% <br> 1–2 | 6–9% <br> 1 | 15–19% <br> 2–3 | 9–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 2–3 | 22–28% <br> 3–4 | 8–11% <br> 1 | 10–14% <br> 1–2 | 6–9% <br> 0–1 | 13–18% <br> 2 | 6–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [13–23 March 2023](2023-03-23-TNS.html) | TNS <br> De Standaard and VRT | 19–23% <br> 3 | 23–26% <br> 3–4 | 8–11% <br> 1 | 8–11% <br> 1 | 7–9% <br> 1 | 15–19% <br> 2–3 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |

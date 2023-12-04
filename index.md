@@ -5,9 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | VOORUIT | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–23% <br> 2–3 | 21–28% <br> 3–4 | 6–10% <br> 1 | 11–17% <br> 1–2 | 5–10% <br> 0–1 | 13–19% <br> 2–3 | 7–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 17–24% <br> 2–3 | 20–27% <br> 3–4 | 6–10% <br> 0–1 | 11–17% <br> 1–2 | 6–11% <br> 1 | 13–19% <br> 2–3 | 7–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2–3 | 23–29% <br> 3–4 | 7–10% <br> 1 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 13–18% <br> 2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–25% <br> 2–4 | 24–32% <br> 3–5 | 7–12% <br> 1 | 10–16% <br> 1–2 | 5–9% <br> 0–1 | 11–16% <br> 1–2 | 6–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 18–25% <br> 2–4 | 24–31% <br> 3–5 | 7–12% <br> 1 | 10–16% <br> 1–2 | 5–9% <br> 0–1 | 11–16% <br> 1–2 | 6–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

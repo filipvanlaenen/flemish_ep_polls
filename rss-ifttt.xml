@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 5 Aug 2023 14:48:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX-seating-plan.png" length="363761" type="image/png"/>
+      <pubDate>Mon, 4 Dec 2023 20:32:57 +0100</pubDate>
+      <dc:date>2023-12-04T20:32:57.616467843+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX-seats.png" length="248818" type="image/png"/>
+      <pubDate>Mon, 4 Dec 2023 20:32:57 +0100</pubDate>
+      <dc:date>2023-12-04T20:32:57.616467843+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-11-28-iVOX.png" length="308136" type="image/png"/>
+      <pubDate>Mon, 4 Dec 2023 20:32:57 +0100</pubDate>
+      <dc:date>2023-12-04T20:32:57.616467843+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-10-09-Kantar.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-10-09-Kantar.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-10-09-Kantar-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-06-14-Ipsos.png" length="296169" type="image/png"/>
       <pubDate>Sun, 19 Jun 2022 22:49:15 +0200</pubDate>
       <dc:date>2022-06-19T22:49:15.293409306+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by TNS for De Standaard and VRT, 14–31 March 2022<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS-seating-plan.png" length="272519" type="image/png"/>
-      <pubDate>Fri, 6 May 2022 18:33:35 +0200</pubDate>
-      <dc:date>2022-05-06T18:33:35.158322551+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by TNS for De Standaard and VRT, 14–31 March 2022<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS-seats.png" length="167082" type="image/png"/>
-      <pubDate>Fri, 6 May 2022 18:33:35 +0200</pubDate>
-      <dc:date>2022-05-06T18:33:35.158322551+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by TNS for De Standaard and VRT, 14–31 March 2022<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2022-03-31-TNS.png" length="275008" type="image/png"/>
-      <pubDate>Fri, 6 May 2022 18:33:35 +0200</pubDate>
-      <dc:date>2022-05-06T18:33:35.158322551+02:00</dc:date>
     </item>
   </channel>
 </rss>

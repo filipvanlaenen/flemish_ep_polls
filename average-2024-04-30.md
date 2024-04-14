@@ -206,7 +206,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 34% | 100% |  |
-| 3 | 66% | 66% | Last Result, Median |
+| 3 | 65% | 66% | Last Result, Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -219,8 +219,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 66% | 99.9% | Last Result, Median |
-| 4 | 34% | 34% |  |
+| 3 | 67% | 99.9% | Last Result, Median |
+| 4 | 33% | 33% |  |
 | 5 | 0% | 0% |  |
 
 ### Open Vlaamse Liberalen en Democraten (RE)
@@ -231,8 +231,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 28% | 100% |  |
-| 2 | 72% | 72% | Last Result, Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Christen-Democratisch en Vlaams (EPP)
@@ -281,8 +281,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 98.6% | 100% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Piratenpartij (Greens/EFA)
@@ -321,8 +321,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 66% | 99.9% | Last Result, Median |
-| 4 | 34% | 34% |  |
+| 3 | 67% | 99.9% | Last Result, Median |
+| 4 | 33% | 33% |  |
 | 5 | 0% | 0% |  |
 
 ### Nieuw-Vlaamse Alliantie (ECR) – Lijst Dedecker (ECR)
@@ -332,7 +332,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 34% | 100% |  |
-| 3 | 66% | 66% | Last Result, Median |
+| 3 | 65% | 66% | Last Result, Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 28% | 100% |  |
-| 2 | 72% | 72% | Last Result, Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Vooruit (S&D)
@@ -384,14 +384,14 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 98.6% | 100% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 1,048,576
-+ **Error estimate:** 1.10%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 1.54%

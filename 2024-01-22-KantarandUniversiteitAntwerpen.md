@@ -30,7 +30,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#vlaams-belang-(id)">Vlaams Belang (ID)</a> | 3 | 4 | 4 |4 |4–5 |4–5 |
+| <a href="#vlaams-belang-(id)">Vlaams Belang (ID)</a> | 3 | 4 | 4 |4 |4 |4–5 |
 | <a href="#nieuw-vlaamse-alliantie-(ecr)">Nieuw-Vlaamse Alliantie (ECR)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#vooruit-(s&d)">Vooruit (S&D)</a> | 1 | 2 | 2 |2 |2 |1–2 |
 | <a href="#christen-democratisch-en-vlaams-(epp)">Christen-Democratisch en Vlaams (EPP)</a> | 2 | 1 | 1–2 |1–2 |1–2 |1–2 |
@@ -47,8 +47,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.2% | 100% | Last Result |
-| 4 | 97% | 99.8% | Median |
-| 5 | 3% | 3% |  |
+| 4 | 98% | 99.8% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### Nieuw-Vlaamse Alliantie (ECR)
@@ -59,8 +59,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 19% | 100% |  |
-| 3 | 81% | 81% | Last Result, Median |
+| 2 | 15% | 100% |  |
+| 3 | 85% | 85% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Vooruit (S&D)
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Median |
-| 2 | 14% | 14% | Last Result |
+| 1 | 90% | 100% | Median |
+| 2 | 10% | 10% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Partij van de Arbeid van België (GUE/NGL)
@@ -96,8 +96,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 95% | 100% | Median |
-| 2 | 5% | 5% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Open Vlaamse Liberalen en Democraten (RE)
@@ -130,7 +130,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Vlaams Belang (ID) | 3 | 4 | 0% | 4 | 4 | 4–5 | 4–5 |
+| Vlaams Belang (ID) | 3 | 4 | 0% | 4 | 4 | 4 | 4–5 |
 | Vooruit (S&D) | 1 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 | Christen-Democratisch en Vlaams (EPP) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
@@ -143,8 +143,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.2% | 100% | Last Result |
-| 4 | 97% | 99.8% | Median |
-| 5 | 3% | 3% |  |
+| 4 | 98% | 99.8% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### Vooruit (S&D)
@@ -163,8 +163,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Median |
-| 2 | 14% | 14% | Last Result |
+| 1 | 90% | 100% | Median |
+| 2 | 10% | 10% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Partij van de Arbeid van België (GUE/NGL)
@@ -174,8 +174,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 95% | 100% | Median |
-| 2 | 5% | 5% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Open Vlaamse Liberalen en Democraten (RE)
@@ -199,6 +199,6 @@
 ### Calculations
 
 + **Sample size:** 1844
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.96%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.78%
 

@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Apr 2024 19:00:38 +0200</pubDate>
+    <pubDate>Thu, 18 Apr 2024 19:25:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-03-05-Ipsos.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by iVOX for Vlaams &amp; Neutraal Ziekenfonds, 9–22 January 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-01-22-iVOX.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-01-22-iVOX-seats.png"
-        length="205732"
+        length="208949"
         type="image/png"/>
-      <pubDate>Sun, 10 Mar 2024 20:20:30 +0100</pubDate>
-      <dc:date>2024-03-10T20:20:30.702718+01:00</dc:date>
+      <pubDate>Thu, 18 Apr 2024 19:25:20 +0200</pubDate>
+      <dc:date>2024-04-18T19:25:20.716373+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by iVOX for Vlaams &amp; Neutraal Ziekenfonds, 9–22 January 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-01-22-iVOX.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-01-22-iVOX-coalitions-seats.png"
-        length="151831"
+        length="162417"
         type="image/png"/>
-      <pubDate>Sun, 10 Mar 2024 20:20:30 +0100</pubDate>
-      <dc:date>2024-03-10T20:20:30.702718+01:00</dc:date>
+      <pubDate>Thu, 18 Apr 2024 19:25:20 +0200</pubDate>
+      <dc:date>2024-04-18T19:25:20.716373+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by iVOX for Vlaams &amp; Neutraal Ziekenfonds, 9–22 January 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-01-22-iVOX.png"
         length="271494"
         type="image/png"/>
-      <pubDate>Sun, 10 Mar 2024 20:20:30 +0100</pubDate>
-      <dc:date>2024-03-10T20:20:30.702718+01:00</dc:date>
+      <pubDate>Thu, 18 Apr 2024 19:25:20 +0200</pubDate>
+      <dc:date>2024-04-18T19:25:20.716373+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar and Universiteit Antwerpen for De Standaard and VRT, 8–22 January 2024 – Seat Projections for the Parties</title>
@@ -759,6 +759,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46+01:00</dc:date>
     </item>
-    <dc:date>2024-04-14T19:00:38.249053+02:00</dc:date>
+    <dc:date>2024-04-18T19:25:20.716373+02:00</dc:date>
   </channel>
 </rss>

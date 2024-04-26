@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 5 Aug 2023 14:48:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar-seating-plan.png" length="360833" type="image/png"/>
+      <pubDate>Fri, 26 Apr 2024 11:02:16 +0200</pubDate>
+      <dc:date>2024-04-26T11:02:16.902118645+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar-seats.png" length="234936" type="image/png"/>
+      <pubDate>Fri, 26 Apr 2024 11:02:16 +0200</pubDate>
+      <dc:date>2024-04-26T11:02:16.902118645+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.png" length="289133" type="image/png"/>
+      <pubDate>Fri, 26 Apr 2024 11:02:16 +0200</pubDate>
+      <dc:date>2024-04-26T11:02:16.902118645+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-03-05-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Euronews, 23 February–5 March 2024<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2024-03-05-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2024-03-05-Ipsos-seating-plan.png"/>]]></description>
@@ -172,54 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-09-25-Ipsos.png" length="296685" type="image/png"/>
       <pubDate>Wed, 4 Oct 2023 19:35:03 +0200</pubDate>
       <dc:date>2023-10-04T19:35:03.091247898+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos-seating-plan.png" length="358488" type="image/png"/>
-      <pubDate>Sat, 16 Sep 2023 14:35:54 +0200</pubDate>
-      <dc:date>2023-09-16T14:35:54.753220709+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos-seats.png" length="188769" type="image/png"/>
-      <pubDate>Sat, 16 Sep 2023 14:35:54 +0200</pubDate>
-      <dc:date>2023-09-16T14:35:54.753220709+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-06-06-Ipsos.png" length="304456" type="image/png"/>
-      <pubDate>Sat, 16 Sep 2023 14:35:54 +0200</pubDate>
-      <dc:date>2023-09-16T14:35:54.753220709+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos-seating-plan.png" length="363093" type="image/png"/>
-      <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
-      <dc:date>2023-03-31T22:33:20.106872474+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos-seats.png" length="236157" type="image/png"/>
-      <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
-      <dc:date>2023-03-31T22:33:20.106872474+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023<br/>Details on https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2023-03-27-Ipsos.png" length="296492" type="image/png"/>
-      <pubDate>Fri, 31 Mar 2023 22:33:20 +0200</pubDate>
-      <dc:date>2023-03-31T22:33:20.106872474+02:00</dc:date>
     </item>
   </channel>
 </rss>

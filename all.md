@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–23% <br> 3–4 | 23–29% <br> 3–4 | 9–12% <br> 1–2 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 10–14% <br> 1–2 | 10–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2–3 | 25–30% <br> 3–5 | 7–10% <br> 1 | 11–15% <br> 1–2 | 6–10% <br> 1 | 10–14% <br> 1–2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16–22% <br> 2–3 | 21–27% <br> 3–4 | 10–15% <br> 1–2 | 9–14% <br> 1–2 | 8–12% <br> 1–2 | 12–17% <br> 1–2 | 7–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 21–25% <br> 3–4 | 25–29% <br> 3–4 | 7–9% <br> 1 | 11–14% <br> 1–2 | 6–9% <br> 1 | 11–14% <br> 1–2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |

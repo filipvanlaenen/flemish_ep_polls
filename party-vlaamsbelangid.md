@@ -10,8 +10,11 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.5% | 21.6–25.5% | 21.0–26.1% | 20.6–26.6% | 19.7–27.6% |
+| N/A | [Poll Average](average.html) | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
+| [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 27.4% | N/A | N/A | N/A | N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 23.5% | 21.6–25.5% | 21.0–26.1% | 20.6–26.6% | 19.7–27.6% |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 25.5% | N/A | N/A | N/A | N/A |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 26.6% | 25.4–27.9% | 25.0–28.3% | 24.7–28.6% | 24.1–29.2% |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 27.8% | 26.5–29.2% | 26.1–29.6% | 25.8–29.9% | 25.2–30.6% |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
@@ -47,19 +50,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% | Last Result |
-| 19.5–20.5% | 2% | 99.6% |  |
-| 20.5–21.5% | 7% | 98% |  |
-| 21.5–22.5% | 17% | 90% |  |
-| 22.5–23.5% | 24% | 73% |  |
-| 23.5–24.5% | 24% | 49% | Median |
-| 24.5–25.5% | 15% | 25% |  |
-| 25.5–26.5% | 7% | 10% |  |
-| 26.5–27.5% | 2% | 3% |  |
-| 27.5–28.5% | 0.5% | 0.6% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 100% | Last Result |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.4% | 100% |  |
+| 22.5–23.5% | 3% | 99.5% |  |
+| 23.5–24.5% | 11% | 97% |  |
+| 24.5–25.5% | 22% | 86% |  |
+| 25.5–26.5% | 29% | 63% | Median |
+| 26.5–27.5% | 22% | 35% |  |
+| 27.5–28.5% | 10% | 13% |  |
+| 28.5–29.5% | 3% | 4% |  |
+| 29.5–30.5% | 0.5% | 0.6% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -70,8 +74,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif |  |  |  |  |  |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 4 | 4 | 4 | 4 | 4–5 |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -109,9 +116,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 67% | 99.9% | Last Result, Median |
-| 4 | 33% | 33% |  |
-| 5 | 0% | 0% |  |
+| 3 | 9% | 100% | Last Result |
+| 4 | 89% | 91% | Median |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 

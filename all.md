@@ -5,7 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | VOORUIT | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–23% <br> 3–4 | 23–29% <br> 3–4 | 9–12% <br> 1–2 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 10–14% <br> 1–2 | 10–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16–22% <br> 2–3 | 21–27% <br> 3–4 | 10–15% <br> 1–2 | 9–14% <br> 1–2 | 8–12% <br> 1–2 | 12–17% <br> 1–2 | 7–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 21–25% <br> 3–4 | 25–29% <br> 3–4 | 7–9% <br> 1 | 11–14% <br> 1–2 | 6–9% <br> 1 | 11–14% <br> 1–2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 17–21% <br> 2–3 | 26–30% <br> 4 | 8–10% <br> 1 | 10–13% <br> 1–2 | 7–10% <br> 1 | 12–15% <br> 2 | 10–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 3–4 | 23–28% <br> 3–4 | 6–9% <br> 0–1 | 10–14% <br> 1–2 | 8–11% <br> 1 | 12–16% <br> 1–2 | 8–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |

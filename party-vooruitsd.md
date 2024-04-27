@@ -14,7 +14,7 @@ Last result: **10.2%** (General Election of 26 May 2019)
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 13.9% | 12.4–15.6% | 11.9–16.1% | 11.6–16.5% | 10.9–17.4% |
-| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 14.7% | N/A | N/A | N/A | N/A |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 14.7% | 13.4–16.1% | 13.0–16.6% | 12.7–16.9% | 12.1–17.6% |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 12.8% | 11.9–13.8% | 11.6–14.1% | 11.4–14.3% | 11.0–14.8% |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 13.7% | 12.7–14.8% | 12.5–15.1% | 12.2–15.4% | 11.8–15.9% |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
@@ -73,7 +73,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif |  |  |  |  |  |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 2 | 2 | 2 | 2 | 1–2 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 2 | 2 | 2 | 2 | 1–2 |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 2 | 1–2 | 1–2 | 1–2 |

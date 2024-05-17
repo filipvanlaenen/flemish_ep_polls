@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VLD | CD&V | GROEN | VOORUIT | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.4% <br> 3 | 19.1% <br> 3 | 16.0% <br> 2 | 14.5% <br> 2 | 12.4% <br> 1 | 10.2% <br> 1 | 5.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [23 April–3 May 2024](2024-05-03-iVOX.html) | iVOX <br> Overlegcentrum van Vlaamse Verenigingen | 19–24% <br> 3 | 24–29% <br> 3–4 | 6–9% <br> 1 | 11–14% <br> 1–2 | 7–10% <br> 1 | 12–15% <br> 1–2 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–23% <br> 3–4 | 23–29% <br> 3–4 | 9–12% <br> 1–2 | 10–14% <br> 1–2 | 5–8% <br> 0–1 | 10–14% <br> 1–2 | 10–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 2–3 | 25–30% <br> 3–5 | 7–10% <br> 1 | 11–15% <br> 1–2 | 6–10% <br> 1 | 10–14% <br> 1–2 | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16–22% <br> 2–3 | 21–27% <br> 3–4 | 10–15% <br> 1–2 | 9–14% <br> 1–2 | 8–12% <br> 1–2 | 12–17% <br> 1–2 | 7–12% <br> 1 | N/A <br> N/A | N/A <br> N/A |

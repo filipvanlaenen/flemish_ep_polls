@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Apr 2024 11:26:14 +0200</pubDate>
+    <pubDate>Fri, 17 May 2024 16:15:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by iVOX for Overlegcentrum van Vlaamse Verenigingen, 23 April–3 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-05-03-iVOX.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 1 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-05-03-iVOX-seats.png"
+        length="210180"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2024 16:15:03 +0200</pubDate>
+      <dc:date>2024-05-17T16:15:03.737855+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Overlegcentrum van Vlaamse Verenigingen, 23 April–3 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-05-03-iVOX.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-05-03-iVOX-coalitions-seats.png"
+        length="155390"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2024 16:15:03 +0200</pubDate>
+      <dc:date>2024-05-17T16:15:03.737855+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Overlegcentrum van Vlaamse Verenigingen, 23 April–3 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-05-03-iVOX.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Christen-Democratisch en Vlaams (EPP): 10.9–14.2%&lt;/li&gt;&lt;li&gt;Vooruit (S&amp;amp;D): 11.9–15.3%&lt;/li&gt;&lt;li&gt;Groen (Greens/EFA): 6.9–9.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België (GUE/NGL): 7.5–10.3%&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie (ECR): 19.4–23.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten (RE): 6.4–9.1%&lt;/li&gt;&lt;li&gt;Vlaams Belang (ID): 24.2–28.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_ep_polls/2024-05-03-iVOX.png"
+        length="282533"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2024 16:15:03 +0200</pubDate>
+      <dc:date>2024-05-17T16:15:03.737855+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_ep_polls/2024-04-18-Kantar.html#seats</link>
@@ -849,6 +879,6 @@
       <pubDate>Sun, 29 Dec 2019 18:33:46 +0100</pubDate>
       <dc:date>2019-12-29T18:33:46+01:00</dc:date>
     </item>
-    <dc:date>2024-04-27T11:26:14.266438+02:00</dc:date>
+    <dc:date>2024-05-17T16:15:03.737855+02:00</dc:date>
   </channel>
 </rss>

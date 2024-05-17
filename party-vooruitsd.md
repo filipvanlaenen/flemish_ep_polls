@@ -10,7 +10,8 @@ Last result: **10.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.2–14.3% |
+| N/A | [Poll Average](average.html) | 12.6% | 10.7–14.3% | 10.3–14.7% | 10.0–15.0% | 9.4–15.6% |
+| [23 April–3 May 2024](2024-05-03-iVOX.html) | iVOX <br> Overlegcentrum van Vlaamse Verenigingen | 13.5% | 12.4–14.7% | 12.1–15.0% | 11.9–15.3% | 11.4–15.9% |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 13.9% | 12.4–15.6% | 11.9–16.1% | 11.6–16.5% | 10.9–17.4% |
@@ -50,15 +51,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 13% | 98% | Last Result |
-| 10.5–11.5% | 35% | 85% |  |
-| 11.5–12.5% | 33% | 51% | Median |
-| 12.5–13.5% | 14% | 17% |  |
-| 13.5–14.5% | 3% | 3% |  |
-| 14.5–15.5% | 0.3% | 0.3% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.8% | 100% |  |
+| 9.5–10.5% | 7% | 99.1% | Last Result |
+| 10.5–11.5% | 18% | 93% |  |
+| 11.5–12.5% | 22% | 75% |  |
+| 12.5–13.5% | 27% | 52% | Median |
+| 13.5–14.5% | 20% | 26% |  |
+| 14.5–15.5% | 5% | 6% |  |
+| 15.5–16.5% | 0.6% | 0.6% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -69,7 +71,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23 April–3 May 2024](2024-05-03-iVOX.html) | iVOX <br> Overlegcentrum van Vlaamse Verenigingen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -111,8 +114,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 64% | 100% | Last Result, Median |
-| 2 | 36% | 36% |  |
+| 1 | 39% | 100% | Last Result |
+| 2 | 61% | 61% | Median |
 | 3 | 0% | 0% |  |
 
 

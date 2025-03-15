@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PVDA | GROEN | PIRAAT | VOORUIT | VLD | CD&V | N-VA | LDD | VB |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–10% <br> 1 | 6–9% <br> 0–1 | N/A <br> N/A | 13–18% <br> 2 | 6–9% <br> 0–1 | 11–16% <br> 1–2 | 22–27% <br> 3–4 | N/A <br> N/A | 21–26% <br> 3–4 |
-| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6–10% <br> 1 | 5–9% <br> 0–1 | N/A <br> N/A | 13–18% <br> 2 | 6–9% <br> 0–1 | 11–16% <br> 1–2 | 22–27% <br> 3–4 | N/A <br> N/A | 21–26% <br> 3–4 |
+| N/A | [Poll Average](average.html) | 8–12% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 12–17% <br> 1–2 | 5–8% <br> 0–1 | 10–14% <br> 1–2 | 23–28% <br> 3–4 | N/A <br> N/A | 23–28% <br> 3–4 |
+| [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8–12% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 12–17% <br> 1–2 | 5–8% <br> 0–1 | 10–14% <br> 1–2 | 23–28% <br> 3–4 | N/A <br> N/A | 23–29% <br> 3–4 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PVDA | GROEN | PIRAAT | VOORUIT | VLD | CD&V | N-VA | LDD | VB |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8–12% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 12–17% <br> 1–2 | 5–8% <br> 0–1 | 10–14% <br> 1–2 | 23–28% <br> 3–4 | N/A <br> N/A | 23–29% <br> 3–4 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6–10% <br> 1 | 5–9% <br> 0–1 | N/A <br> N/A | 13–18% <br> 2 | 6–9% <br> 0–1 | 11–16% <br> 1–2 | 22–27% <br> 3–4 | N/A <br> N/A | 21–26% <br> 3–4 |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7–11% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 13–17% <br> 2 | 5–9% <br> 0–1 | 9–13% <br> 1–2 | 24–30% <br> 3–4 | N/A <br> N/A | 21–26% <br> 3–4 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |

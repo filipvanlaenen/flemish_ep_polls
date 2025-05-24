@@ -36,7 +36,7 @@
 | <a href="#christen-democratisch-en-vlaams-(epp)">Christen-Democratisch en Vlaams (EPP)</a> | 0 | 2 | 2 |2 |1–2 |1–2 |
 | <a href="#partij-van-de-arbeid-van-belgië-(gue/ngl)">Partij van de Arbeid van België (GUE/NGL)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#groen-(greens/efa)">Groen (Greens/EFA)</a> | 0 | 1 | 1 |1 |1 |0–1 |
-| <a href="#open-vlaamse-liberalen-en-democraten-(re)">Open Vlaamse Liberalen en Democraten (RE)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#open-vlaamse-liberalen-en-democraten-(re)">Open Vlaamse Liberalen en Democraten (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Nieuw-Vlaamse Alliantie (ECR)
 
@@ -64,8 +64,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.3% | 100% |  |
-| 3 | 98.7% | 98.7% | Median |
+| 2 | 2% | 100% |  |
+| 3 | 98% | 98% | Median |
 | 4 | 0% | 0% |  |
 
 ### Vooruit (S&D)
@@ -90,8 +90,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
+| 1 | 4% | 100% |  |
+| 2 | 96% | 96% | Median |
 | 3 | 0% | 0% |  |
 
 ### Partij van de Arbeid van België (GUE/NGL)
@@ -113,8 +113,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 99.1% | 99.1% | Median |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 99.2% | 99.2% | Median |
 | 2 | 0% | 0% |  |
 
 ### Open Vlaamse Liberalen en Democraten (RE)
@@ -142,7 +142,7 @@
 | Vooruit (S&D) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams (EPP) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Open Vlaamse Liberalen en Democraten (RE) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
+| Open Vlaamse Liberalen en Democraten (RE) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Vlaams Belang (PfE)
 
@@ -152,8 +152,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.3% | 100% |  |
-| 3 | 98.7% | 98.7% | Median |
+| 2 | 2% | 100% |  |
+| 3 | 98% | 98% | Median |
 | 4 | 0% | 0% |  |
 
 ### Vooruit (S&D)
@@ -174,8 +174,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
+| 1 | 4% | 100% |  |
+| 2 | 96% | 96% | Median |
 | 3 | 0% | 0% |  |
 
 ### Partij van de Arbeid van België (GUE/NGL)
@@ -209,6 +209,6 @@
 ### Calculations
 
 + **Sample size:** 2196
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.82%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.79%
 

@@ -2,7 +2,7 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PVDA | GROEN | PIRAAT | VOORUIT | VLD | CD&V | N-VA | LDD | VB |
+| Period     | Polling firm/Commissioner(s) | PVDA | GROEN | PIRAAT | VOORUIT | Anders | CD&V | N-VA | LDD | VB |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 8–12% <br> 1–2 | 6–9% <br> 0–1 | N/A <br> N/A | 10–14% <br> 1–2 | 6–9% <br> 0–1 | 12–16% <br> 1–2 | 23–28% <br> 3–4 | N/A <br> N/A | 21–27% <br> 3–4 |
@@ -18,7 +18,7 @@ Only polls for which at least the sample size has been published are included in
 + **GROEN:** Groen (Greens/EFA)
 + **PIRAAT:** Piratenpartij (Greens/EFA)
 + **VOORUIT:** Vooruit (S&D)
-+ **VLD:** Open Vlaamse Liberalen en Democraten (RE)
++ **Anders:** Anders (RE)
 + **CD&V:** Christen-Democratisch en Vlaams (EPP)
 + **N-VA:** Nieuw-Vlaamse Alliantie (ECR)
 + **LDD:** Lijst Dedecker (ECR)

@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PVDA | GROEN | PIRAAT | VOORUIT | Anders | CD&V | N-VA | LDD | VB |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [8–15 September 2026](2026-09-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8–12% <br> 1–2 | 5–8% <br> 0–1 | N/A <br> N/A | 11–15% <br> 1–2 | 5–8% <br> 0–1 | 11–16% <br> 1–2 | 20–26% <br> 3–4 | N/A <br> N/A | 25–31% <br> 3–5 |
 | [1–9 June 2026](2026-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8–12% <br> 1 | 6–9% <br> 0–1 | N/A <br> N/A | 11–15% <br> 1–2 | 5–9% <br> 0–1 | 11–15% <br> 1–2 | 20–25% <br> 3–4 | N/A <br> N/A | 24–29% <br> 3–4 |
 | [9 March–5 April 2026](2026-04-05-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 10–13% <br> 1–2 | 6–8% <br> 0–1 | N/A <br> N/A | 11–14% <br> 1–2 | 5–7% <br> 0–1 | 10–13% <br> 1–2 | 26–30% <br> 4–5 | N/A <br> N/A | 20–24% <br> 3–4 |
 | [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8–12% <br> 1 | 6–10% <br> 1 | N/A <br> N/A | 11–15% <br> 1–2 | 4–7% <br> 0–1 | 11–15% <br> 1–2 | 23–28% <br> 3–4 | N/A <br> N/A | 23–28% <br> 3–4 |
